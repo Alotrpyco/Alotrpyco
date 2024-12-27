@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2023.<br>📚 Atualmente estou desenvolvendo meus conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para realizar análise de dados.<br>🎯Foco em análise de regressão, publicar painéis esclarecedores e construir uma base sólida em análise de dados para tomada de decisões.</p>
+<p align="left">✨ Criando bugs desde 2023.<br>📚 Atualmente estou desenvolvendo meus conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para realizar análise de dados.<br>🎯Foco em análise de regressão, desenvolver painéis esclarecedores e construir uma base sólida em análise de dados para tomada de decisões.</p>
 
 ###
 
