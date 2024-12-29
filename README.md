@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Meu nome é Sérgio Ricardo, sou estudante de economia apaixonado pela área quantitativa, análise e resolução de problemas.</p>
+<p align="left">Graduando em economia na Universidade Federal de Alagoas-UFAL, atraído pela área quantitativa, análise e resolução de problemas.</p>
 
 ###
 
