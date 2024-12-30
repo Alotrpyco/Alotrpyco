@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Explorando códigos desde 2023..<br>📚 Atualmente estou desenvolvendo meus conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para realizar análise de dados.<br>🎯Focado em construir painéis esclarecedores e desenvolver uma base sólida em análise de dados para tomada de decisões.</p>
+<p align="left">✨ Explorando códigos desde 2023.<br>📚 Atualmente estou desenvolvendo meus conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para realizar análise de dados.<br>🎯Focado em construir painéis esclarecedores e desenvolver uma base sólida em análise de dados para tomada de decisões.</p>
 
 ###
 
