@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Graduando em Economia - UFAL, atraído pela área quantitativa, análise e resolução de problemas.</p>
+<p align="center">Graduando em Economia - UFAL, atraído pela área quantitativa, análise e resolução de problemas.</p>
 
 ###
 
