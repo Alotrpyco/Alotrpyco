@@ -27,7 +27,7 @@
   <img width="50" />
   <img src="https://skillicons.dev/icons?i=latex" height="46" alt="latex logo"  />
   <img width="50" />
-  <img src="https://skillicons.dev/icons?i=github" height="46" alt="github logo"  />
+
 </div>
 
 ###
