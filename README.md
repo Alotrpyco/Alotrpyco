@@ -34,7 +34,8 @@
 
 <div align="center">
   <img height="200" src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png"  />
-  <img height="400" src="https://i.pinimg.com/236x/7d/ce/18/7dce18b979691c970e32c4015e0220da.jpg"/>
+  n/
+  <img height="250" src="https://i.pinimg.com/236x/7d/ce/18/7dce18b979691c970e32c4015e0220da.jpg"/>
 </div>
 
 ###
