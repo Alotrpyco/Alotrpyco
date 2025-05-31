@@ -8,9 +8,9 @@
 
 ###
 
-<h2 align="left">About me:</h2>
 
-###
+
+
 
 <p align="left">✨ Explorando códigos desde 2023<br>📚 Atualmente, desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para realizar análise de dados<br>🎯Publicar painéis esclarecedores e construir uma base sólida em análise de dados para tomada de decisões.</p>
 
