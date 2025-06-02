@@ -28,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="46" alt="vscode logo"  />
   <img width="50" />
   <img src="https://skillicons.dev/icons?i=latex" height="46" alt="latex logo"  />
+  <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="30" alt="excel logo"  />
+  <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="30" alt="power bi logo"  />
 </div>
 
 ###
