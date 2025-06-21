@@ -29,8 +29,7 @@
   <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="46" alt="excel logo"  />
   <img width="50" />
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="46" alt="power bi logo"  />
-  
-</div>
+  </div>
 
 ###
 
