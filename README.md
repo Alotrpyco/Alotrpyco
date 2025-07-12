@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/sergioricardo-me/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://lattes.cnpq.br/6028108290396877" target="_blank">
-  <img src="https://raw.githubusercontent.com/github/explore/73f463b8e22cbdb86d6f4be68dc76e248e211c09/topics/lattes/lattes.png" alt="Currículo Lattes" height="40">
+  <[![Currículo Lattes](https://img.shields.io/badge/Currículo-Lattes-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://lattes.cnpq.br/6028108290396877)
+
 </a>
 
 </div>
