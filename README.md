@@ -11,8 +11,6 @@
 </a>
   <a href="https://www.linkedin.com/in/sergioricardo-me/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <[![Currículo Lattes](https://img.shields.io/badge/Currículo-Lattes-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://lattes.cnpq.br/6028108290396877)
 
 </a>
 
