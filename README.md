@@ -5,11 +5,17 @@
 <br clear="both">
 
 <p align="center">Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.</p>
+###
+<div>
+  <a href="mailto:sergio.torres@feac.ufal.br">
+  <img src="https://img.shields.io/badge/email-sergio.torres@feac.ufal.br-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+  <a href="https://www.linkedin.com/in/sergioricardo-me/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ###
-
-
-
 
 
 <p align="left">✨ Explorando códigos desde 2023<br>📚 Atualmente, desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para realização de análise de dados<br>🎯Publicar painéis esclarecedores e construir uma base sólida em análise de dados para tomada de decisões.</p>
@@ -29,7 +35,7 @@
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="46" alt="power bi logo"  />
   <img width="50" />
   </div>
-
+  
 ###
 
 <div align="center">
