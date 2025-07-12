@@ -4,17 +4,24 @@
 
 <br clear="both">
 
-<p align="center">Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.</p>
-<div>
-  <a href="mailto:sergio.torres@feac.ufal.br">
+<div align="center">
+
+<p>Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.</p>
+
+<a href="mailto:sergio.torres@feac.ufal.br">
   <img src="https://img.shields.io/badge/email-sergio.torres@feac.ufal.br-blue?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-  <a href="https://www.linkedin.com/in/sergioricardo-me/">
+
+<a href="https://www.linkedin.com/in/sergioricardo-me/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://lattes.cnpq.br/6028108290396877" target="_blank">
-<img src="https://img.shields.io/badge/Lattes-0072BC?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lattes-0072BC?style=for-the-badge&logo=academia&logoColor=white" />
 </a>
+
+</div>
+
 
 
 </div>
