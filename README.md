@@ -9,7 +9,7 @@
 <p>Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.</p>
 
 <a href="mailto:sergio.torres@feac.ufal.br">
-  <img src="https://img.shields.io/badge/Email-sergio.torres@feac.ufal.br-red?style=for-the-badge&logo=gmail&logoColor=original" />
+  <img src="https://img.shields.io/badge/Email-sergio.torres@feac.ufal.br-purple?style=for-the-badge&logo=gmail&logoColor=original" />
 </a>
 
 <a href="https://www.linkedin.com/in/sergioricardo-me/">
