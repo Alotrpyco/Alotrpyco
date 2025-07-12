@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/Email-sergio.torres@feac.ufal.br-blue?style=for-the-badge&logo=gmail&logoColor=original" />
 </a>
 
-<a href="https://www.linkedin.com/in/sergioricardo-me/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 </div>
 
 
