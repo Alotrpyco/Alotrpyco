@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png"  />
+  <img height="4000" src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png"  />
 </div>
 
 ###
