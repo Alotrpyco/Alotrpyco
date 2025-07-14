@@ -37,6 +37,9 @@
   <img width="50" />
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="46" alt="power bi logo"  />
   <img width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="40" alt="LaTeX" /
+  <img width="50" />
+
   </div>
   
 ###
