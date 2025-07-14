@@ -25,25 +25,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="46" alt="moodle logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="46" alt="r logo"  />
-  <img width="50" />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
-  <img width="50" />
-  <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="46" alt="excel logo"  />
-  <img width="50" />
-  <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="46" alt="power bi logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="46" alt="latex logo"  />
-  <img width="50" />
-
-
-  </div>
-  
-###
 
 <div align="center">
   <img height="700" src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png"  />
@@ -60,9 +41,6 @@
 </div>
 
 ###
-
-
-
 
 <h1 align="center">Ei 👋 E aí?</h1>
 
@@ -90,7 +68,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
   <img width="50" />
   <img src="https://skillicons.dev/icons?i=latex" height="46" alt="latex logo"  />
-   <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="46" alt="excel logo"  />
+  <img width="50" />
+  <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="46" alt="excel logo"  />
   <img width="50" />
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="46" alt="power bi logo"  />
   <img width="50" />
