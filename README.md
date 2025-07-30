@@ -2,7 +2,6 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&theme=dark&langs_count=10)
  <a href="mailto:sergio.torres@feac.ufal.br">
-
   <img src="https://img.shields.io/badge/Email-sergio.torres@feac.ufal.br-blue?style=for-the-badge&logo=gmail&logoColor=original" />
 </a>
 
@@ -21,17 +20,6 @@
 
 <p>Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.</p>
  
-<a href="mailto:sergio.torres@feac.ufal.br">
-
-  <img src="https://img.shields.io/badge/Email-sergio.torres@feac.ufal.br-blue?style=for-the-badge&logo=gmail&logoColor=original" />
-</a>
-
-</div>
-  
-
-
-</div>
-
 ###
 
 
