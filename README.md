@@ -1,8 +1,5 @@
 <h1 align="center">Ei 👋 E aí?</h1>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&theme=dark&langs_count=10)
-
-
 <br clear="both">
 
 <div align="center">
