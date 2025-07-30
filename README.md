@@ -1,7 +1,8 @@
 <h1 align="center">Ei 👋 E aí?</h1>
 
-!| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&theme=dark&langs_count=10) | **📧 Email:**<br>[sergio.torres@feac.ufal.br](mailto:sergio.torres@feac.ufal.br) |
-| --- | --- |
+!| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&theme=dark&langs_count=10)
+
+  <img src="https://img.shields.io/badge/Email-sergio.torres@feac.ufal.br-blue?style=for-the-badge&logo=gmail&logoColor=original" />
 
 
 <br clear="both">
