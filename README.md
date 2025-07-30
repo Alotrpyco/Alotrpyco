@@ -1,5 +1,6 @@
 <h1 align="center">Ei 👋 E aí?</h1>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=10&theme=dark)
 
 <br clear="both">
 
@@ -51,9 +52,6 @@
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="46" alt="power bi logo"  />
   <img width="50" />
 </div>
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=10&theme=dark)
-
 
 
 ###
