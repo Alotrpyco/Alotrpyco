@@ -1,6 +1,6 @@
 <h1 align="center">Ei 👋 E aí?</h1>
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alotrpyco&show_icons=true&theme=dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&theme=dark&langs_count=10)
 
 
 <br clear="both">
