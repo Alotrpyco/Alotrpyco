@@ -1,5 +1,6 @@
 <h1 align="center">Ei 👋 E aí?</h1>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&theme=dark&langs_count=15)
 
 <p align="center">
 Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.
