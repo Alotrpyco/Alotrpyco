@@ -5,11 +5,6 @@
 Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.
 </p>
 
-
-<p align="center">
-Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.
-</p>
-
  
 ###
 
