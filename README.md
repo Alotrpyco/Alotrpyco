@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sergio.torres@feac.ufal.br">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-sergio.torres@feac.ufal.br-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  a href="mailto:sergio.torres@feac.ufal.br">
+    <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=gray" />
   </a>
 </p>
 
