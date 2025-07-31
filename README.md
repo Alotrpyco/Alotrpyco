@@ -1,18 +1,8 @@
 <h1 align="center">Ei 👋 E aí?</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&theme=dark&langs_count=10" />
-</p>
-
 <p align="center">
-  Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.
-</p>
-
-<p align="center">
-
-<a href="mailto:sergio.torres@feac.ufal.br">
-    <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-blue?style=for-the-badge&logo=gmail&logoColor=red&labelColor=gray" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=donut&theme=dark&langs_count=20" alt="Top Langs"/>
 </p>
 
 
