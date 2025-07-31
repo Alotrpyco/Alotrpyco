@@ -9,10 +9,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&theme=dark&langs_count=10" />
 </p>
- 
-<br clear="both">
 
-<div align="center">
 
 <p>Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.</p>
  
