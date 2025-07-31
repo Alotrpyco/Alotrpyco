@@ -1,7 +1,14 @@
 <h1 align="center">Ei 👋 E aí?</h1>
 
 <p align="center">
-  
+  Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.
+</p>
+
+<p align="center">
+
+<a href="mailto:sergio.torres@feac.ufal.br">
+    <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-blue?style=for-the-badge&logo=gmail&logoColor=red&labelColor=gray" />
+  </a>
 ###
 
 
