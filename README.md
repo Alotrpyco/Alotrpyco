@@ -9,9 +9,10 @@ Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e 
 ###
 
 
-  <p align="left">✨ Explorando códigos desde 2024<br>
+  <p align="left">
+  :thought_balloon: Explorando códigos desde 2024<br>
   :books: Atualmente, desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para realização de análise de dados<br>
-  🎯Publicar painéis esclarecedores e construir uma base sólida em análise de dados para tomada de decisões.</p>
+  :dart: Publicar painéis esclarecedores e construir uma base sólida em análise de dados para tomada de decisões.</p>
 
 ###
 
