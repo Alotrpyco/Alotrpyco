@@ -1,12 +1,7 @@
 <h1 align="center">Ei 👋 E aí?</h1>
 
 <p align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=donut&theme=dark&langs_count=20" alt="Top Langs"/>
-</p>
-
-
- 
+  
 ###
 
 
