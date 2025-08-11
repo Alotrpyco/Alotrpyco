@@ -3,7 +3,8 @@
 <p align="center">
   Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117,0A0F1C,000000&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=30363D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=normal&langs_count=10&bg_color=0D1117,0A0F1C,000000&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=30363D)
+
 
 </p>
 
