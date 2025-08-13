@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <!-- GitHub Stats Dinâmico -->
+
   <a href="https://github.com/Alotrpyco">
     <img 
          src="https://github-readme-stats.vercel.app/api?username=Alotrpyco&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
@@ -64,6 +64,6 @@
 ---
 
 <div align="center">
-  <!-- GIF de apresentação otimizado -->
+ 
   <img height="400" src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png" alt="GIF Apresentação" />
 </div>
