@@ -8,10 +8,7 @@
   <a href="mailto:sergio.torres@feac.ufal.br">
     <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-blue?style=for-the-badge&logo=gmail&logoColor=red&labelColor=gray" />
   </a>
-  <img width="20" />
-  <a href="https://github.com/Alotrpyco">
-    <img src="https://img.shields.io/github/followers/Alotrpyco?label=Follow&style=for-the-badge&color=blue" />
-  </a>
+ 
 </p>
 
 ---
