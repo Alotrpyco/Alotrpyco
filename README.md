@@ -1,7 +1,7 @@
 <h1 align="center">Ei 👋 E aí?</h1>
 
 
-<p align="center">
+<p align="center"> 
   Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.
   <div align="center">
 
