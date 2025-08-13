@@ -28,7 +28,8 @@
 <a href="https://github.com/Alotrpyco">
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
-       alt="Top Langs" 
+       alt="Top Langs"
+       alt="Stars Earned" 
        height="180em" 
        style="background: linear-gradient(135deg, #58A6FF, #9b59b6, #f39c12); padding: 5px; border-radius: 20px;" />
 </a>
