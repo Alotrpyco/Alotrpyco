@@ -9,22 +9,6 @@
     <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-blue?style=for-the-badge&logo=gmail&logoColor=red&labelColor=gray" />
   </a>
   
-<div align="center">
-
-  <a href="https://github.com/Alotrpyco">
-    <img src="https://raw.githubusercontent.com/Alotrpyco/SEU_REPOSITORIO/main/assets/github-stats-gradient.png" 
-         alt="GitHub Stats" 
-         height="180em" />
-  </a>
-
-  <a href="https://github.com/Alotrpyco">
-    <img src="https://raw.githubusercontent.com/Alotrpyco/SEU_REPOSITORIO/main/assets/top-langs-gradient.png" 
-         alt="Top Langs" 
-         height="180em" />
-  </a>
-
-</div>
-
   <p align="left">
   :thought_balloon: Explorando códigos desde 2024<br>
   :books: Atualmente, desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para realização de análise de dados<br>
