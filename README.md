@@ -1,20 +1,20 @@
-<!-- Título centralizado -->
+
 <h1 align="center">Ei 👋 E aí?</h1>
 
-<!-- Paragráfo centralizado -->
+
 <p align="center">
   Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.
   <div align="center">
 
 <p align="center">
 
-<!-- Botão de e-mail personalizado -->
+
 <a href="mailto:sergio.torres@feac.ufal.br">
-    <!-- Badge gerado pelo shields.io (imagem dinâmica) -->
+    <!-- incone gerado pelo shields.io (imagem dinâmica) -->
     <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-blue?style=for-the-badge&logo=gmail&logoColor=red&labelColor=gray" />
 </a>
 
-<!-- Bloco central para estatísticas do GitHub -->
+<!-- Bloco para estatísticas do GitHub -->
 <div align="center">
 
   <!-- Estatísticas gerais do GitHub -->
@@ -26,7 +26,7 @@
          style="background: linear-gradient(135deg, #58A6FF, #9b59b6, #f39c12); padding: 5px; border-radius: 20px;" />
   </a>
 
-  <!-- Linguagens mais usadas -->
+  <!-- Linguagens usadas -->
   <a href="https://github.com/Alotrpyco">
     <img 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
@@ -37,7 +37,7 @@
 
 </div>
 
-<!-- Pequena bio -->
+<!-- Pequena descrição -->
 <p align="left">
   :thought_balloon: Explorando códigos desde 2024<br>
   :books: Atualmente, desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para realização de análise de dados<br>
@@ -46,7 +46,7 @@
 
 ###
 
-<!-- Ícones de tecnologias -->
+<!-- Outros íncones -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="46" alt="moodle logo"  />
   <img width="50" />
