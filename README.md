@@ -4,26 +4,31 @@
   Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.
   <div align="center">
 
-  <a href="https://github.com/Alotrpyco">
-    <img src="https://raw.githubusercontent.com/Alotrpyco/SEU_REPOSITORIO/main/assets/github-stats-gradient.png" 
-         alt="GitHub Stats" 
-         height="180em" />
-  </a>
-
-  <a href="https://github.com/Alotrpyco">
-    <img src="https://raw.githubusercontent.com/Alotrpyco/SEU_REPOSITORIO/main/assets/top-langs-gradient.png" 
-         alt="Top Langs" 
-         height="180em" />
-  </a>
-
-</div>
-
 <p align="center">
 
 <a href="mailto:sergio.torres@feac.ufal.br">
     <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-blue?style=for-the-badge&logo=gmail&logoColor=red&labelColor=gray" />
   </a>
-  
+  <div align="center">
+
+  <a href="https://github.com/Alotrpyco">
+    <img 
+         src="https://github-readme-stats.vercel.app/api?username=Alotrpyco&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
+         alt="GitHub Stats" 
+         height="180em" 
+         style="background: linear-gradient(135deg, #58A6FF, #9b59b6, #f39c12); padding: 5px; border-radius: 20px;" />
+  </a>
+
+  <a href="https://github.com/Alotrpyco">
+    <img 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
+         alt="Top Langs" 
+         height="180em" 
+         style="background: linear-gradient(135deg, #58A6FF, #9b59b6, #f39c12); padding: 5px; border-radius: 20px;" />
+  </a>
+
+</div>
+
   <p align="left">
   :thought_balloon: Explorando códigos desde 2024<br>
   :books: Atualmente, desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para realização de análise de dados<br>
