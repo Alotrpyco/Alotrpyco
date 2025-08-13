@@ -2,6 +2,21 @@
 
 <p align="center">
   Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.
+  <div align="center">
+
+  <a href="https://github.com/Alotrpyco">
+    <img src="https://raw.githubusercontent.com/Alotrpyco/SEU_REPOSITORIO/main/assets/github-stats-gradient.png" 
+         alt="GitHub Stats" 
+         height="180em" />
+  </a>
+
+  <a href="https://github.com/Alotrpyco">
+    <img src="https://raw.githubusercontent.com/Alotrpyco/SEU_REPOSITORIO/main/assets/top-langs-gradient.png" 
+         alt="Top Langs" 
+         height="180em" />
+  </a>
+
+</div>
 
 <p align="center">
 
