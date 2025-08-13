@@ -15,8 +15,6 @@
 
 
 <a href="https://github.com/Alotrpyco">
-  
-  <a href="https://github.com/Alotrpyco">
     <img 
          src="https://github-readme-stats.vercel.app/api?username=Alotrpyco&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
          alt="GitHub Stats" 
