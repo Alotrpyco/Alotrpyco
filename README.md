@@ -43,10 +43,4 @@
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="46" alt="power bi logo" />
 </div>
 
----
 
-<h3 align="center">🐍 Minhas contribuições</h3>
-
-<div align="center">
-  <img src="https://github.com/Alotrpyco/Alotrpyco/blob/output/github-contribution-grid-snake.svg" />
-</div>
