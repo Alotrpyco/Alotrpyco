@@ -15,13 +15,13 @@
 
 
 <a href="https://github.com/Alotrpyco">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=Alotrpyco&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=00000000" 
-       alt="GitHub Stats" 
-       height="180em" 
-       style="background: linear-gradient(135deg, #58A6FF, #1C3FAA, #2C7FFF); padding: 5px; border-radius: 20px;" />
-
-<a href="https://github.com/Alotrpyco">
+  
+  <a href="https://github.com/Alotrpyco">
+    <img 
+         src="https://github-readme-stats.vercel.app/api?username=Alotrpyco&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
+         alt="GitHub Stats" 
+         height="180em" 
+         style="background: linear-gradient(135deg, #58A6FF, #9b59b6, #f39c12); padding: 5px; border-radius: 20px;" />
     <img 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
          alt="Top Langs" 
