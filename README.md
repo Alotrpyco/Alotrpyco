@@ -58,8 +58,6 @@
   <img width="50" />
 </div>
 
----
-
 <hr style="border: 1px solid gray;" />
 
 <div style="width: 100%; text-align: center;">
