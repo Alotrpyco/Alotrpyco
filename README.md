@@ -60,7 +60,11 @@
 
 ---
 
-<div align="center">
- 
-  <img height="400" src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png" alt="GIF Apresentação" />
+<hr style="border: 1px solid gray;" />
+
+<div style="width: 100%; text-align: center;">
+  <img src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png" 
+       alt="GIF Apresentação" 
+       style="width: 100%; height: auto; display: block;" />
 </div>
+
