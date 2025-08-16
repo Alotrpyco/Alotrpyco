@@ -27,7 +27,7 @@
          alt="GitHub Stats" 
          height="180em" />
   </a>
-
+---
   <a href="https://github.com/Alotrpyco">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=00000000" 
