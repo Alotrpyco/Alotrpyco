@@ -35,13 +35,6 @@
       height="180em" />
   </a>
   
-  <!-- Sequência de commits -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Alotrpyco&theme=github-dark&hide_border=true" height="180em" />
-  </a>
-
-</div>
-
 ---
 
 <div align="center">
