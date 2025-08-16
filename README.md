@@ -4,6 +4,12 @@
   Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.
 </p>
 
+<p align="left">
+  :thought_balloon: Explorando códigos desde 2024<br>
+  :books: Atualmente desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para análise de dados<br>
+  :dart: Publicar painéis esclarecedores e construir uma base sólida para tomada de decisões.
+</p>
+
 <p align="center">
   <a href="mailto:sergio.torres@feac.ufal.br">
     <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-blue?style=for-the-badge&logo=gmail&logoColor=red&labelColor=gray" />
@@ -48,15 +54,6 @@
 </div>
 
 ---
-
-<p align="left">
-  :thought_balloon: Explorando códigos desde 2024<br>
-  :books: Atualmente desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para análise de dados<br>
-  :dart: Publicar painéis esclarecedores e construir uma base sólida para tomada de decisões.
-</p>
-
----
-
 <div align="center">
   <!-- Habilidades -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="46" alt="moodle logo"  />
