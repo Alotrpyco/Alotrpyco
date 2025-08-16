@@ -8,28 +8,43 @@
   <a href="mailto:sergio.torres@feac.ufal.br">
     <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-blue?style=for-the-badge&logo=gmail&logoColor=red&labelColor=gray" />
   </a>
- 
 </p>
 
 ---
 
 <div align="center">
 
+  <!-- Estatísticas do GitHub -->
   <a href="https://github.com/Alotrpyco">
     <img 
          src="https://github-readme-stats.vercel.app/api?username=Alotrpyco&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
          alt="GitHub Stats" 
-         height="180em" 
-         style="background: linear-gradient(135deg, #58A6FF, #9b59b6, #f39c12); padding: 5px; border-radius: 20px;" />
+         height="180em" />
   </a>
 
   <a href="https://github.com/Alotrpyco">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=00000000" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=00000000" 
       alt="Top Languages" 
-      height="180em" 
-      style="background: linear-gradient(135deg, #58A6FF, #1C3FAA, #2C7FFF); padding: 5px; border-radius: 20px;" />
+      height="180em" />
   </a>
+  
+  <!-- Sequência de commits -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Alotrpyco&theme=github-dark&hide_border=true" height="180em" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- Troféus -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&no-frame=true&row=1&column=6" />
+
+  <!-- Gráfico de contribuições -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=0D1117&color=58A6FF&line=9b59b6&point=f39c12&area=true&hide_border=true" />
 </div>
 
 ---
@@ -65,4 +80,3 @@
        alt="GIF Apresentação" 
        style="width: 100%; height: auto; display: block;" />
 </div>
-
