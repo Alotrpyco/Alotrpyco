@@ -17,7 +17,7 @@
 </p>
 
 ---
-
+<div align="center">
   <tr>
     <td align="right" width="100%">
       <a href="https://github.com/Alotrpyco">
@@ -27,7 +27,7 @@
           height="180em" />
       </a>
     </td>
-  
+ </div> 
   
 ---
 
