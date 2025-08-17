@@ -18,21 +18,26 @@
 
 ---
 
-<div align="center" style="max-width: 900px; margin: auto;">
-  <a href="https://github.com/Alotrpyco">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Alotrpyco&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
-      alt="GitHub Stats" 
-      style="width: 90%; max-width: 450px; height: auto; margin-bottom: 24px;" />
-  </a>
-  <br/>
-  <a href="https://github.com/Alotrpyco">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=00000000" 
-      alt="Top Languages" 
-      style="width: 90%; max-width: 450px; height: auto;" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <a href="https://github.com/Alotrpyco">
+        <img 
+             src="https://github-readme-stats.vercel.app/api?username=Alotrpyco&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
+             alt="GitHub Stats" 
+             height="180em" />
+      </a>
+    </td>
+    <td align="right" width="50%">
+      <a href="https://github.com/Alotrpyco">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=00000000" 
+          alt="Top Languages" 
+          height="180em" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,10 +69,10 @@
 
 <hr style="border: 1px solid gray;" />
 
-<div align="center">
+<div style="width: 100%; text-align: center;">
   <img src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png" 
        alt="GIF Apresentação" 
-       style="max-width: 100%; height: auto;" />
+       style="width: 100%; height: auto; display: block;" />
 </div>
 
 
