@@ -4,7 +4,7 @@
   Graduando em Economia - UFAL, com interesse nas áreas quantitativa, análise e resolução de problemas.
 </p>
 
-<div style="text-align: justify; max-width: 800px; margin: auto;">
+<div style="text-align: center; max-width: 800px; margin: auto;">
   <p>
     💭 Explorando códigos desde 2024<br>
     📚 Atualmente desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para análise de dados<br>
@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<div style="text-align: center; margin: 20px 0;">
   <a href="mailto:sergio.torres@feac.ufal.br">
     <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-blue?style=for-the-badge&logo=gmail&logoColor=red&labelColor=gray" />
   </a>
@@ -21,26 +21,21 @@
 <hr style="border: 1px solid gray;">
 
 <!-- GitHub Stats -->
-<table width="100%" style="max-width: 800px; margin: auto;">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Alotrpyco">
-        <img 
-             src="https://github-readme-stats.vercel.app/api?username=Alotrpyco&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
-             alt="GitHub Stats" 
-             style="width: 90%; max-width: 350px;" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Alotrpyco">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=00000000" 
-          alt="Top Languages" 
-          style="width: 90%; max-width: 350px;" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; max-width: 800px; margin: auto;">
+  <a href="https://github.com/Alotrpyco">
+    <img 
+         src="https://github-readme-stats.vercel.app/api?username=Alotrpyco&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&border_color=00000000" 
+         alt="GitHub Stats" 
+         style="width: 90%; max-width: 350px;" />
+  </a>
+
+  <a href="https://github.com/Alotrpyco">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=00000000" 
+      alt="Top Languages" 
+      style="width: 90%; max-width: 350px;" />
+  </a>
+</div>
 
 <hr style="border: 1px solid gray; margin-top: 30px;">
 
