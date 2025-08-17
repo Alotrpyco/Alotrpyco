@@ -18,7 +18,7 @@
 
 ---
 
-<table width="100%">
+
   <tr>
     <td align="right" width="100%">
       <a href="https://github.com/Alotrpyco">
@@ -29,7 +29,7 @@
       </a>
     </td>
   </tr>
-</table>
+
 
 ---
 
