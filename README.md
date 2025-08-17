@@ -18,7 +18,6 @@
 
 ---
 
-html
 <table width="100%">
   <tr>
     <td align="right" width="100%">
