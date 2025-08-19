@@ -12,7 +12,8 @@
 
 <p align="center">
 <a href="mailto:sergio.torres@feac.ufal.br">
-  <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-0a66c2?style=for-the-badge&logo=gmail&logoColor=red" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+
 </a>
 
 
