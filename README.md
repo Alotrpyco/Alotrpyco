@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, seja bem-vindo!</h1>
+<h1 align="center"> Ei 👋 E aí?! </h1>
 
 <p align="center">
   🎓 Graduando em Economia - UFAL  
