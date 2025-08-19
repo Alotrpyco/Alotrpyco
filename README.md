@@ -22,7 +22,7 @@
     <td align="right" width="100%">
       <a href="https://github.com/Alotrpyco">
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=00000000" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=00000000&v=1" 
           alt="Top Languages" 
           height="180em" />
       </a>
@@ -34,10 +34,10 @@
 <div align="center">
 
   <!-- Troféus -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&no-frame=true&row=1&column=6&v=1" />
 
   <!-- Gráfico de contribuições -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=0D1117&color=58A6FF&line=9b59b6&point=f39c12&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=0D1117&color=58A6FF&line=9b59b6&point=f39c12&area=true&hide_border=true&v=1" />
 </div>
 
 ---
@@ -64,6 +64,3 @@
        alt="GIF Apresentação" 
        style="width: 100%; height: auto; display: block;" />
 </div>
-
-
----
