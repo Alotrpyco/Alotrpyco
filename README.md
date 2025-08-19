@@ -5,9 +5,9 @@
 </p>
 
 <p align="left">
-  :thought_balloon: Explorando códigos desde 2024<br>
-  :books: Atualmente desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para análise de dados<br>
-  :dart: Publicar painéis esclarecedores e construir uma base sólida para tomada de decisões.
+  💭 Explorando códigos desde 2024 <br>
+  📚 Atualmente desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para análise de dados <br>
+  🎯 Publicar painéis esclarecedores e construir uma base sólida para tomada de decisões.
 </p>
 
 <p align="center">
@@ -17,50 +17,42 @@
 </p>
 
 ---
-<div align="center">
-  <tr>
-    <td align="right" width="100%">
-      <a href="https://github.com/Alotrpyco">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=00000000&v=1" 
-          alt="Top Languages" 
-          height="180em" />
-      </a>
-    </td>
- </div> 
-  
+
+<p align="center">
+  <a href="https://github.com/Alotrpyco">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=00000000&v=1" 
+      alt="Top Languages" 
+      height="180em" />
+  </a>
+</p>
+
 ---
 
-<div align="center">
-
+<p align="center">
   <!-- Troféus -->
   <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&no-frame=true&row=1&column=6&v=1" />
 
   <!-- Gráfico de contribuições -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=0D1117&color=58A6FF&line=9b59b6&point=f39c12&area=true&hide_border=true&v=1" />
-</div>
+</p>
 
 ---
-<div align="center">
+
+<p align="center">
   <!-- Habilidades -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="46" alt="moodle logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="46" alt="r logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
-  <img width="50" />
-  <img src="https://skillicons.dev/icons?i=latex" height="46" alt="latex logo"  />
-  <img width="50" />
-  <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="46" alt="excel logo"  />
-  <img width="50" />
-  <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="46" alt="power bi logo"  />
-  <img width="50" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="46" alt="moodle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="46" alt="r" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python" />
+  <img src="https://skillicons.dev/icons?i=latex" height="46" alt="latex" />
+  <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="46" alt="excel" />
+  <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="46" alt="power bi" />
+</p>
 
-<hr style="border: 1px solid gray;" />
+---
 
-<div style="width: 100%; text-align: center;">
+<p align="center">
   <img src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png" 
        alt="GIF Apresentação" 
-       style="width: 100%; height: auto; display: block;" />
-</div>
+       width="100%" />
+</p>
