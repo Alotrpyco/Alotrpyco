@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="mailto:sergio.torres@feac.ufal.br">
-  <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-0a66c2?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-0a66c2?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
 
