@@ -40,7 +40,7 @@
 
 
   <!-- Gráfico de contribuições -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=d73a49&area=true&hide_border=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false" />
 
 </p>
 
