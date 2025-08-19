@@ -35,6 +35,7 @@
   <!-- Troféus -->
   <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=flat&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
+
   <!-- Gráfico de contribuições -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=28a745&point=d73a49&area=true&hide_border=false" />
 </p>
