@@ -60,3 +60,11 @@
        alt="GIF minimalista" 
        width="100%" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png" 
+       alt="GIF Apresentação" 
+       width="100%" />
+</p>
