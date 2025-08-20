@@ -17,9 +17,6 @@
 
 
 
-
-
-
 ---
 
 <p align="center">
@@ -34,12 +31,12 @@
 ---
 
 <p align="center">
-  <!-- Troféus -->
+  
  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 
 
-  <!-- Gráfico de contribuições -->
+ 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false" />
 
 </p>
@@ -47,7 +44,7 @@
 ---
 
 <p align="center">
-  <!-- Habilidades -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="46" alt="moodle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="46" alt="r" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python" />
