@@ -10,7 +10,7 @@
   🎯 Publicar painéis esclarecedores e construir uma base sólida para tomada de decisões.
 </p>
 
-<!-- Email -->
+<!-- Contato -->
 <p align="center">
   <a href="mailto:sergio.torres@feac.ufal.br">
     <img src="https://img.shields.io/badge/Email-SERGIO.TORRES@FEAC.UFAL.BR-0a66c2?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -19,32 +19,26 @@
 
 ---
 
-<!-- GitHub Stats -->
+<!-- Estatísticas GitHub -->
 <p align="center">
   <a href="https://github.com/Alotrpyco">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=ffffff&title_color=0366d6&text_color=24292e&border_color=d0d7de&v=1" 
-      alt="Top Languages" 
-      height="180em" 
-    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=ffffff&title_color=0366d6&text_color=24292e&border_color=d0d7de&v=1" 
+         alt="Top Languages" height="180em" />
   </a>
 </p>
 
 ---
 
-<!-- Trophies e Gráfico de Atividade -->
+<!-- Troféus e Gráfico de Atividade -->
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" 
-  />
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false" />
 </p>
 
 ---
 
-<!-- Skills -->
+<!-- Tecnologias -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="46" alt="moodle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="46" alt="r" />
@@ -56,11 +50,7 @@
 
 ---
 
-<!-- GIF Apresentação -->
+<!-- GIF Final -->
 <p align="center">
-  <img 
-    src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png" 
-    alt="GIF Apresentação" 
-    width="100%" 
-  />
+  <img src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png" alt="GIF Apresentação" width="100%" />
 </p>
