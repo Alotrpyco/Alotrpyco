@@ -36,8 +36,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false" />
 </p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&no-frame=true&row=1&column=6)
-
 ---
 
 <!-- Tecnologias -->
