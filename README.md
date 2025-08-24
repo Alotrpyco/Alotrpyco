@@ -6,7 +6,7 @@
 
 <p align="left">
   💭 Explorando códigos desde 2024 <br>
-  📚 Atualmente desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para análise de dados <br>
+  📚 Atualmente desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R e SQL para análise de dados <br>
   🎯 Publicar painéis esclarecedores e construir uma base sólida para tomada de decisões.
 </p>
 
@@ -36,9 +36,8 @@
 
 ---
 
-<!--Gráfico de Atividade -->
+<!-- Gráfico de Atividade -->
 <p align="center">
-  
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false" />
 </p>
@@ -47,9 +46,10 @@
 
 <!-- Tecnologias -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="46" alt="moodle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="46" alt="r" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="46" alt="r" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" alt="sql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="46" alt="google apps script" />
   <img src="https://skillicons.dev/icons?i=latex" height="46" alt="latex" />
   <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="46" alt="excel" />
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="46" alt="power bi" />
