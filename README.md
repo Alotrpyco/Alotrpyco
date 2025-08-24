@@ -29,6 +29,15 @@
 
 ---
 
+<!-- Troféus e Gráfico de Atividade -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false" />
+</p>
+
+---
+
 <!-- Tecnologias -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="46" alt="moodle" />
