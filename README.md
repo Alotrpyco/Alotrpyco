@@ -27,11 +27,18 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Alotrpyco">
+    <img src="https://streak-stats.demolab.com?user=Alotrpyco&theme=default&hide_border=false&background=FFFFFF&stroke=0366d6&ring=0366d6&fire=800080&currStreakLabel=000000" 
+         alt="GitHub Streak Stats" height="180em" />
+  </a>
+</p>
+
 ---
 
 <!-- Troféus e Gráfico de Atividade -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Troféus GitHub"/>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false" />
 </p>
