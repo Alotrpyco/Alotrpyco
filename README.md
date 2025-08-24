@@ -56,10 +56,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/output/snake.svg" alt="Snake animation"/>
-</p>
----
 
 <!-- GIF Final -->
 <p align="center">
