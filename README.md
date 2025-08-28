@@ -9,7 +9,8 @@
   📚 Atualmente desenvolvendo conhecimentos em Python, aprimorando técnicas em Power BI e me aprofundando em R para análise de dados <br>
   🎯 Publicar painéis esclarecedores e construir uma base sólida para tomada de decisões.
 </p>
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="src/word.gif.mp4">
+
 ---
 
 <!-- Contato -->
