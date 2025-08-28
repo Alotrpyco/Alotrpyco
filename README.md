@@ -38,13 +38,6 @@
 
 ---
 
-<!-- Troféus -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 <!-- Gráfico de Atividade -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false" alt="GitHub Activity Graph" />
