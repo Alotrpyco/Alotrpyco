@@ -29,11 +29,11 @@
   </a>
 </p>
 
+---
+
+<!-- Troféus -->
 <p align="center">
-  <a href="https://github.com/Alotrpyco">
-    <img src="https://streak-stats.demolab.com?user=Alotrpyco&theme=default&hide_border=false&background=FFFFFF&stroke=0366d6&ring=0366d6&fire=800080&currStreakLabel=000000" 
-         alt="GitHub Streak Stats" height="180em" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=flat&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
