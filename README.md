@@ -24,8 +24,11 @@
 <!-- Estatísticas GitHub -->
  <p align="center">
   <a href="https://github.com/Alotrpyco">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=ffffff&title_color=0366d6&text_color=24292e&border_color=d0d7de&custom_title=Linguagens%20usadas%20por%20Sergio%20Ricardo" 
-         alt="Top Languages" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=ffffff&title_color=0366d6&text_color=24292e&border_color=d0d7de&custom_title=LINGUAGENS%20USADA%20POR%20S%C3%89RGIO%20RICARDO" 
+         alt="Linguagens Usadas" height="180em" />
+  </a>
+</p>
+
   </a>
 </p>
 
