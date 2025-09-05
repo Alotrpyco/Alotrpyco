@@ -22,12 +22,12 @@
 ---
 
 <!-- Estatísticas GitHub -->
+<h3 align="center" style="color:white;">🏆 Troféus de Sérgio Ricardo</h3>
+
 <p align="center">
-  <a href="https://github.com/Alotrpyco">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=ffffff&title_color=0000FF&text_color=24292e&border_color=d0d7de&custom_title=Linguagens%20Utilizadas" 
-         alt="Linguagens Usadas" height="180em" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=darkhub&column=6&margin-w=10&margin-h=10" />
 </p>
+
 
 
 ---
