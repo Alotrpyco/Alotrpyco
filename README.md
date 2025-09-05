@@ -33,11 +33,12 @@
 ---
 
 <!-- Troféus -->
+<h3 align="center" style="color:#00BFFF;">🏆 Troféus de Sérgio Ricardo</h3>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=darkhub&column=6&margin-w=10&margin-h=10" />
-
-
 </p>
+
 
 ---
 
