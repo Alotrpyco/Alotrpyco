@@ -33,7 +33,8 @@
 
 <!-- Troféus -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=dracula&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=darkhub&column=6&margin-w=10&margin-h=10" />
+
 </p>
 
 ---
