@@ -24,10 +24,11 @@
 <!-- Estatísticas GitHub -->
 <p align="center">
   <a href="https://github.com/Alotrpyco">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=ffffff&title_color=00BFFF&text_color=24292e&border_color=d0d7de&custom_title=Linguagens%20Usadas" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=8&bg_color=ffffff&title_color=4169E1&text_color=24292e&border_color=d0d7de&custom_title=Linguagens%20Usadas" 
          alt="Linguagens Usadas" height="180em" />
   </a>
 </p>
+
 
 ---
 
