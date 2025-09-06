@@ -56,6 +56,7 @@
   <img src="https://skillicons.dev/icons?i=latex" height="46" alt="LaTeX" />
   <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="46" alt="Excel" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="46" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="46" alt="Jupyter" />
 </p>
 
 ---
