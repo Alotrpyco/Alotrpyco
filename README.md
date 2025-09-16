@@ -14,9 +14,7 @@
 
 <!-- Contato -->
 <p align="center">
-  
-  <a href="mailto:sergio.torres@feac.ufal.br">
-    <img src="https://img.shields.io/badge/Email-sergio.torres@feac.ufal.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:sergio.torres@feac.ufal.br"> <img src="https://img.shields.io/badge/Email-sergio.torres@feac.ufal.br-0a66c2?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
   </a>
 
   <a href="https://discord.gg/Alotrpyco">
