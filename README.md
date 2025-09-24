@@ -18,8 +18,7 @@
   <a href="http://lattes.cnpq.br/6028108290396877"><img src="https://img.shields.io/badge/Lattes-000?style=for-the-badge&logo=read.cv&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sergioricardo-me"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:sergio.torres@feac.ufal.br"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://br.op.gg/summoner/userName=Alotrópico"><img src="https://img.shields.io/badge/LoL-Alotrópico-000000?style=for-the-badge&logo=leagueoflegends&logoColor=FFD700"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tibia.com/community/?subtopic=characters&name=Aphigon"><img src="https://img.shields.io/badge/Tibia-Aphigon-006400?style=for-the-badge&logo=&logoColor=white"></a>
+  <a href="https://br.op.gg/summoner/userName=Alotrópico"><img src="https://img.shields.io/badge/LoL-Alotrópico-000000?style=for-the-badge&logo=leagueoflegends&logoColor=FFD700"></a>
 </p>
 
 
