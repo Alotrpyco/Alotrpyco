@@ -19,10 +19,9 @@
   <a href="https://linkedin.com/in/sergioricardo-me"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:sergio.torres@feac.ufal.br"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://br.op.gg/summoner/userName=Alotrópico"><img src="https://img.shields.io/badge/LoL-Alotrópico-000000?style=for-the-badge&logo=leagueoflegends&logoColor=FFD700"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tibia.com/community/?subtopic=characters&name=Maestro%20Lord">
-    <img src="https://img.shields.io/badge/Tibia-Maestro%20Lord-FFD700?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABO0lEQVQ4T62TvUoDQRCGv1YQsBIR2WwSmzhYo9kGuwCy8hRsgR7AjWzwJm0B6QpF5AGtiTq9oZtAyYUtDImIth1hCTv8w57zn3nP0zG+JkkYd6K8ALuIdFEqJcCdxV7a9OEw0YApWm8A6At+x6nBYPhkT3xMnxXOAqPRRwaZ+TnMM8sLPHk4vYYI/6fT1epAIaXKpRAnFZEWiwXdrtcK4CSOXliQA2wZ0PUG3uhMxK1Mo/vo+GlDB9bwC4I4c3C+4zJOKm47AsA5MZ7jWZ2lsM+jzeTyaEEgH8BEBN5rP7aBV6ALswScv+XKdtm5qDzEqwN8JtMJBqNxgZj4OILcXSmFNTvMN4muA6zwXAXmgAAAABJRU5ErkJggg==&logoColor=000000">
-  </a>
+  <a href="https://www.tibia.com/community/?subtopic=characters&name=Maestro+Lord"><img src="https://img.shields.io/badge/Tibia-Maestro%20Lord-006400?style=for-the-badge&logo=&logoColor=white"></a>
 </p>
+
 
 
 
