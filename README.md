@@ -56,8 +56,12 @@
 <h3 align="center" style="color:#00BFFF;">🏆 Meus Troféus</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=darkhub&column=6&margin-w=10&margin-h=10" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=darkhub&column=6&margin-w=10&margin-h=10&cache_seconds=1800" 
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 ---
 
