@@ -42,10 +42,9 @@
 <p align="center">
   <a href="https://github.com/Alotrpyco">
     <img 
-     <img 
-  src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=20&count_private=true&bg_color=ffffff&title_color=000000&text_color=24292e&border_color=d0d7de&custom_title=Linguagens%20Usadas"
-  alt="Linguagens Usadas" 
-  height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=30&count_private=true&hide_title=false&bg_color=ffffff&title_color=000000&text_color=24292e&border_color=d0d7de"
+      alt="Linguagens mais usadas"
+      height="180em"
     />
   </a>
 </p>
