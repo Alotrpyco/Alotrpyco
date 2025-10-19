@@ -66,6 +66,8 @@
 <h3 align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false&custom_title=Gráfico%20de%20Commits%20do%20Dia&title_color=000000" alt="Gráfico de Commits do Dia" />
 
+---
+
 <!-- GIF Final centralizado -->
 <p align="center">
   <img src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png" alt="GIF Apresentação" width="100%"/>
