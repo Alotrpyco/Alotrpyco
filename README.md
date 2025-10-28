@@ -4,7 +4,7 @@
   <a href="https://github.com/" target="_blank">
     <img alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" />
   </a>
-
+  
   <!-- Banner de apresentação -->
   <a href="#--about-me--">
     <img width="100%" style="padding:10px;"
