@@ -1,8 +1,8 @@
 <!-- Badge Git e Banner centralizados -->
 <p align="center">
   <!-- Badge Git -->
-  <a href="https://github.com/" target="_blank">
-    <img alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" />
+  <a href="https://github.com/Alotrpyco" target="_blank">
+    <img alt="Git" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
   
   <!-- Banner de apresentação -->
