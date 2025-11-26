@@ -46,8 +46,9 @@
 
 <!-- Linguagens usadas -->
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=6&theme=light" alt="Linguagens mais usadas" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=10&count_private=true&hide_title=false&custom_title=Linguagens%20usadas&bg_color=ffffff&title_color=000000&text_color=24292e&border_color=d0d7de&cache_seconds=3600" alt="Linguagens usadas" height="180em">
 </div>
+
 <!-- Tech Stack -->
 <h3 align="left"> 💻 Tech Stack</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -56,7 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="RStudio" title="RStudio" />
-  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="LaTeX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="TeX" title="TeX" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30" alt="Jupyter" />
