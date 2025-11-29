@@ -67,6 +67,16 @@
 
 ---
 
+<h3 align="left">Confira também minhas outras análises clicando no ícone abaixo:</h3>
+
+<div align="left">
+  <a href="https://rpubs.com/Alotrpyco/" target="_blank">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Acessar RPubs">
+  </a>
+</div>
+
+---
+
 <!-- GIF Final centralizado -->
 <p align="center">
   <img src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png" alt="GIF Apresentação" width="100%"/>
