@@ -33,6 +33,9 @@
   <a href="https://instagram.com/sergioricardo.me">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://www.threads.net/@sergioricardo.me">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+  </a>
   <a href="mailto:sergio.torres@feac.ufal.br">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
   </a>
@@ -46,8 +49,13 @@
 
 <!-- Linguagens usadas -->
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=10&count_private=true&hide_title=false&custom_title=Linguagens%20usadas&bg_color=ffffff&title_color=000000&text_color=24292e&border_color=d0d7de&cache_seconds=3600" alt="Linguagens usadas" height="180em">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=10&count_private=true&hide_title=false&custom_title=Linguagens%20usadas&bg_color=ffffff&title_color=000000&text_color=24292e&border_color=d0d7de&cache_seconds=3600" 
+    alt="Linguagens usadas" 
+    height="180em"
+  >
 </div>
+
 
 <!-- Tech Stack -->
 <h3 align="left"> 💻 Tech Stack</h3>
