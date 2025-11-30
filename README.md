@@ -56,6 +56,16 @@
   >
 </div>
 
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=10&count_private=true&hide_title=false&custom_title=Linguagens%20usadas&bg_color=ffffff&title_color=000000&text_color=24292e&border_color=d0d7de&cache_seconds=3600" target="_blank">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=10&count_private=true&hide_title=false&custom_title=Linguagens%20usadas&bg_color=ffffff&title_color=000000&text_color=24292e&border_color=d0d7de&cache_seconds=3600" 
+      alt="Linguagens usadas" 
+      height="180"
+    >
+  </a>
+</div>
+
 
 <!-- Tech Stack -->
 <h3 align="left"> 💻 Tech Stack</h3>
