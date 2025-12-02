@@ -61,7 +61,7 @@
 </div>
 
 ---
-![trophy](https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=Margin+Width)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=aura)
 
 ---
 
