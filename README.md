@@ -48,13 +48,8 @@
 </div>
 
 <!-- Linguagens usadas -->
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=10&count_private=true&hide_title=false&custom_title=Linguagens%20usadas&bg_color=ffffff&title_color=000000&text_color=24292e&border_color=d0d7de&cache_seconds=3600" 
-    alt="Linguagens usadas" 
-    height="180em"
-  >
-</div>
+
+[![Top Languages](https://github-readme-stats-sand-one-96.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&title_color=000000&bg_color=00000000&text_color=000000&hide_border=true&exclude_repo=Alotrpyco,github-readme-stats)]
 
 <!-- Tech Stack -->
 <h3 align="left"> 💻 Tech Stack</h3>
