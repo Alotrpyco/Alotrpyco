@@ -48,7 +48,7 @@
 </div>
 
 <!-- Linguagens usadas -->
-![Top Languages](https://github-readme-stats-sand-one-96.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&title_color=000000&bg_color=00000000&text_color=000000&hide_border=true&exclude_repo=Alotrpyco,github-readme-stats&cache_seconds=3600)
+  ![Top Languages](https://github-readme-stats-sand-one-96.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&title_color=6e7681&bg_color=00000000&text_color=8b949e&hide_border=true&cache_seconds=3600)
 
 <!-- Tech Stack -->
 <h3 align="left"> 💻 Tech Stack</h3>
