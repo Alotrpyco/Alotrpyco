@@ -25,7 +25,7 @@
 ---
 
 <!-- Conecte-se comigo -->
-<h3 align="left"> 🌐 Conecte-se comigo!</h3> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<h3 align="left"> 🌐 Conecte-se comigo!</h3> 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <a href="https://linkedin.com/in/sergioricardo-me">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
