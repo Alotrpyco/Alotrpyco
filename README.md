@@ -26,6 +26,7 @@
 
 <!-- Conecte-se comigo -->
 <h3 align="left"> 🌐 Conecte-se comigo!</h3> 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right">
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <a href="https://linkedin.com/in/sergioricardo-me">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
