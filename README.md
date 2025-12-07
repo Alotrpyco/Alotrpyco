@@ -28,7 +28,7 @@
 <h3 align="left"> 🌐 Conecte-se comigo!</h3> 
 
 <p align="left">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="55">
 </p>
 
