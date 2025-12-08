@@ -70,12 +70,12 @@
 
 <span>
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews" width="550px">
+    src="https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews" width="555px">
 </span>
 
 <span>
   <img 
-    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" width="250px">
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" width="248px">
 </span>
 
 ---
