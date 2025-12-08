@@ -25,7 +25,13 @@
 ---
 
 <!-- Conecte-se comigo -->
-<h3 align="left"> 🌐 Conecte-se comigo!</h3>
+<h3 align="left"> 🌐 Conecte-se comigo!</h3> 
+
+<p align="left">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="45">
+</p>
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <a href="https://linkedin.com/in/sergioricardo-me">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -48,24 +54,7 @@
 </div>
 
 <!-- Linguagens usadas -->
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=10&count_private=true&hide_title=false&custom_title=Linguagens%20usadas&bg_color=ffffff&title_color=000000&text_color=24292e&border_color=d0d7de&cache_seconds=3600" 
-    alt="Linguagens usadas" 
-    height="180em"
-  >
-</div>
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=10&count_private=true&hide_title=false&custom_title=Linguagens%20usadas&bg_color=ffffff&title_color=000000&text_color=24292e&border_color=d0d7de&cache_seconds=3600" target="_blank">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&langs_count=10&count_private=true&hide_title=false&custom_title=Linguagens%20usadas&bg_color=ffffff&title_color=000000&text_color=24292e&border_color=d0d7de&cache_seconds=3600" 
-      alt="Linguagens usadas" 
-      height="180"
-    >
-  </a>
-</div>
-
+  ![Top Languages](https://github-readme-stats-sand-one-96.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&title_color=6e7681&bg_color=00000000&text_color=8b949e&hide_border=true&cache_seconds=3600)
 
 <!-- Tech Stack -->
 <h3 align="left"> 💻 Tech Stack</h3>
@@ -76,6 +65,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30" alt="Jupyter" />
 </div>
+
+---
+<p align="left">
+
+  ![trophy](https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews)
+</p>
 
 ---
 
