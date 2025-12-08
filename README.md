@@ -68,13 +68,13 @@
 
 ---
 
-<span>
+<span style="margin-left: 200px; gap: 20px;">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews"
   >
 </span>
 
-<span style="margin-left: 200px; gap: 20px;">
+<span>
   <img 
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" 
     width="205px"
