@@ -28,8 +28,8 @@
 <h3 align="left"> 🌐 Conecte-se comigo!</h3> 
 
 <p align="left">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="85">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="55">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="45">
 </p>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
