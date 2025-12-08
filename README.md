@@ -95,3 +95,6 @@
   <img src="https://lh6.ggpht.com/_b9vTbdToT_w/S4mmkbVjWbI/AAAAAAAAFII/S109fpizSqQ/s1600/anigifvs200.png" alt="GIF Apresentação" width="100%"/>
 </p>
 
+<video src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/animation.gif.mp4"
+       autoplay loop muted playsinline width="350">
+</video>
