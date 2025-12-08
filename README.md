@@ -76,6 +76,7 @@
 
 ![guerreiro](https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif)
 </p>
+
 ---
 
 <!-- Gráfico de Atividade -->
