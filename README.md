@@ -67,7 +67,7 @@
 </div>
 
 ---
-![trophy](https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&title=-Reviews)
+![trophy](https://github-profile-trophy.vercel.app/?username=alotrpyco&theme=algolia&title=-Reviews)
 
 ---
 
