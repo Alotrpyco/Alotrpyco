@@ -77,9 +77,8 @@
 <span style="margin-left: 200px; gap: 20px;">
   <img 
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" 
-    width="400px"
-    height="205px"
-  
+    width="205px"
+
   >
 </span>
 
