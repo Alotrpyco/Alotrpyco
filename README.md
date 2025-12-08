@@ -70,7 +70,7 @@
 
 <span>
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews" width="555px">
+    src="https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews" width="560px">
 </span>
 
 <span>
