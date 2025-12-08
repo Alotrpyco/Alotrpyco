@@ -74,10 +74,10 @@
   >
 </span>
 
-<span span style="margin-left: 70px;">
+<span style="margin-left: 70px;">
   <img 
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" 
-    width="200"
+    width="180"
   >
 </span>
 
