@@ -29,7 +29,7 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="45">
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/gatinha.gif" height="45">
 </p>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -67,15 +67,20 @@
 </div>
 
 ---
-<p align="left">
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews)
-</p>
+<span>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews"
+  >
+</span>
 
-<p align="right">
-
-![guerreiro](https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif)
-</p>
+<span style="margin-left: 200px;">
+  <img 
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" 
+    width="210"
+    height="100000000"
+  >
+</span>
 
 ---
 
