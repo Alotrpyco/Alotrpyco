@@ -75,7 +75,7 @@
 
 <span>
   <img 
-    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" width="248px">
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" width="235px">
 </span>
 
 ---
