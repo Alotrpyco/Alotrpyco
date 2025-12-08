@@ -67,15 +67,17 @@
 </div>
 
 ---
-<p align="left">
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews)
-</p>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-<p align="right">
 
-![guerreiro](https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif)
-</p>
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" width="280">
+
+ 
+  <img src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&column=3&margin-w=15&margin-h=15" />
+
+</div>
+
 ---
 
 <!-- Gráfico de Atividade -->
