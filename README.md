@@ -74,10 +74,11 @@
   >
 </span>
 
-<span style="margin-left: 210px;">
+<span style="margin-left: 200px;">
   <img 
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" 
-    height="500"
+    width="210"
+    height="600"
   >
 </span>
 
