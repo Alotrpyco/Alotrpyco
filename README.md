@@ -72,6 +72,10 @@
   ![trophy](https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews)
 </p>
 
+<p align="right">
+
+![guerreiro](https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif)
+</p>
 ---
 
 <!-- Gráfico de Atividade -->
