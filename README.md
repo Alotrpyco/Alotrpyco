@@ -68,7 +68,7 @@
 
 ---
 
-<span style="margin-left: 200px; gap: 20px;">
+<span style= text align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews"
   >
