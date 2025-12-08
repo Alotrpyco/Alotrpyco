@@ -68,14 +68,13 @@
 
 ---
 
-<p align="left">
+<span align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews">
+</span>
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=15&margin-h=15&theme=algolia&title=-Reviews)
-
-<p align="right">
-
-![guerreiro](https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif)
-</p>
+<span align="right">
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" width="250">
+</span>
 
 ---
 
