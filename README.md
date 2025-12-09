@@ -78,7 +78,7 @@
 
   <img 
     src="https://github-readme-stats-sand-one-96.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia" 
-    width="600px">
+    width="500px">
 
 </div>
 
