@@ -18,6 +18,9 @@
 <p align="center">
   Graduando em Economia pela UFAL, com interesse em análise quantitativa, resolução de problemas e visualização de dados. 
   Assessor Técnico na Secretaria de Estado do Turismo de Alagoas (SETUR/AL) e sempre em busca de oportunidades para aplicar conhecimentos em análise e interpretação de dados em projetos práticos.
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=Alotrpyco&style=for-the-badge)
+
 </p>
 
 <img align="right" alt="Estudo" height="190px" src="./src/study.gif">
