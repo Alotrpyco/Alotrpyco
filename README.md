@@ -77,7 +77,7 @@
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" width="242px">
 </span>
   <img 
-  src="https://github-readme-stats-sand-one-96.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia" width="690px">
+  src="https://github-readme-stats-sand-one-96.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia" width="680px">
     
 </span>
 
