@@ -75,9 +75,10 @@
 </div>
 
 ---
-
-![GitHub Stats](https://github-readme-stats-git-master-alotrpycos-projects.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia)
-
+<p align="center">
+  <img src="https://github-readme-stats-git-master-alotrpycos-projects.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia&cache_seconds=360">
+  
+</p
 
 ---
 
