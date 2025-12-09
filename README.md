@@ -76,7 +76,8 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats-sand-one-96.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia)
+![GitHub Stats](https://github-readme-stats-git-master-alotrpycos-projects.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia)
+
 
 ---
 
