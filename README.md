@@ -21,9 +21,7 @@
 </p>
 
 <p align="center">
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=Alotrpyco&style=for-the-badge)
-
+  <img src="https://komarev.com/ghpvc/?username=Alotrpyco&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
