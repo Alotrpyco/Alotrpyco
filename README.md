@@ -72,7 +72,8 @@
 
 <span>
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=alotrpyco&column=4&margin-w=10&margin-h=10&theme=algolia&title=-Reviews" width="565px">
+  src="https://github-readme-stats-sand-one-96.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia">
+    
 </span>
 
 <span>
