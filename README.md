@@ -70,22 +70,10 @@
 
 ---
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img 
-        src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" 
-        width="240px">
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats-sand-one-96.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia" 
-        width="500px">
-    </td>
-  </tr>
-</table>
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" width="240px">
+  <img src="https://github-readme-stats-sand-one-96.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia" width="500px">
+</p>
 
 ---
 
