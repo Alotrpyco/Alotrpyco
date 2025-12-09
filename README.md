@@ -61,7 +61,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" width="240px">
-  <img src="https://github-readme-stats-sand-one-96.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&title_color=6e7681&bg_color=00000000&text_color=8b949e&hide_border=true&cache_seconds=360" width="450px")
+  <img src="https://github-readme-stats-sand-one-96.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&title_color=6e7681&bg_color=00000000&text_color=8b949e&hide_border=true&cache_seconds=360" width="400px")
 </p>
 
 <!-- Tech Stack -->
