@@ -70,16 +70,17 @@
 
 ---
 
-<span>
+<div style="display: flex; align-items: center; gap: 20px;">
 
-  <span>
   <img 
-    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" width="242px">
-</span>
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" 
+    width="240px">
+
   <img 
-  src="https://github-readme-stats-sand-one-96.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia" width="600px">
-    
-</span>
+    src="https://github-readme-stats-sand-one-96.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia" 
+    width="600px">
+
+</div>
 
 
 ---
