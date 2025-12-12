@@ -22,6 +22,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alotrpyco&style=for-the-badge" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/slow.svg">
 </p>
 
 ---
