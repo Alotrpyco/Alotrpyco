@@ -21,6 +21,7 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/svg/slow.svg">
   <img src="https://komarev.com/ghpvc/?username=Alotrpyco&style=for-the-badge" alt="Profile Views" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/svg/slow.svg">
 </p>
