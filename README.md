@@ -78,10 +78,10 @@
 
 <!-- IDE, Produtividade e Tools -->
 
-<h3 align = "left"> ⚙️ IDE's, Produtividades e Tools</h3>
+<h3 align = "left"> ⚙️ IDE's, Produtividades & Tools</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="RStudio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="RStudio" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/texstudio.png" height="30" alt="TeXstudio" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png" height="30" alt="teams" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png" height="30" alt="google_classroon" />
