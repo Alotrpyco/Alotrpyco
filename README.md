@@ -86,7 +86,7 @@
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png" height="30" alt="teams" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png" height="30" alt="google_classroon" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="30" alt="OpenAI" />
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/deepseek.png" height="36" alt="deepseek" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/deepseek.png" height="30" alt="deepseek" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/copilot.png" height="30" alt="copilot" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/lexibird_translate.png" height="30" alt="lexibird_translate" />
 </div>
