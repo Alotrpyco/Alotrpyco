@@ -86,6 +86,7 @@
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png" title="Microsoft Teams" height="30" alt="teams" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png" title="Google Classroom" height="30" alt="google_classroon" />
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt" title="ChatGPT" alt="ChatGPT" height="30"/>
+  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" title="Google Gemini" alt="Google Gemini" height="30"/>
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/deepseek.png" title="DeepSeek" height="30" alt="deepseek" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/copilot.png" title="Microsoft Copilot" height="30" alt="copilot" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/lexibird_translate.png" title="Lexibird Translate" height="30" alt="lexibird_translate" />
