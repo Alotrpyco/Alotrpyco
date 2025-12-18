@@ -76,7 +76,23 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30" alt="Jupyter" />
 </div>
 
+<!-- IDE, Produtividade e Tools -->
+
+<h3 align = "right"> ⚙️ IDE's, Produtividade e Tools</h3>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="RStudio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/texstudio.png" height="30" alt="TeXstudio" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png" height="30" alt="teams" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png" height="30" alt="google_classroon" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="30" alt="OpenAI" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/deepseek.png" height="30" alt="deepseek" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/copilot.png" height="30" alt="copilot" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/lexibird_translate.png" height="30" alt="lexibird_translate" />
+</div>
+
 ---
+
 <!-- Gráfico de Atividade -->
 <h3 align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false&custom_title=Gráfico%20de%20Commits%20do%20Dia&title_color=000000" alt="Gráfico de Commits do Dia" />
