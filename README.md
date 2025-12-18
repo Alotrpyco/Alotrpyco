@@ -78,7 +78,7 @@
 
 <!-- IDE, Produtividade e Tools -->
 
-<h3 align = "left"> ⚙️ IDE's, Produtividade e Tools</h3>
+<h3 align = "left"> ⚙️ IDE's, Produtividade & Tools</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="RStudio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
