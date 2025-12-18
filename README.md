@@ -67,7 +67,7 @@
 </p>
 
 <!-- Tech Stack -->
-<h3 align="left"> 💻 Tech Stack</h3>
+<h3 align="center"> 💻 Tech Stack</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
@@ -78,13 +78,13 @@
 
 <!-- IDE, Produtividade e Tools -->
 
-<h3 align = "left"> ⚙️ IDE's, Produtividades & Tools</h3>
+<h3 align = "center"> ⚙️ IDE's, Produtividade e Tools</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="RStudio" />
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/texstudio.png" height="30" alt="teXstudio" />
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png" height="30" alt="teams" />
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png" height="30" alt="google_classroon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/texstudio.png" width="30" alt="TeXstudio" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png" height="36" alt="teams" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png" height="36" alt="google_classroon" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="30" alt="OpenAI" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/deepseek.png" height="30" alt="deepseek" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/copilot.png" height="30" alt="copilot" />
@@ -92,7 +92,6 @@
 </div>
 
 ---
-
 <!-- Gráfico de Atividade -->
 <h3 align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false&custom_title=Gráfico%20de%20Commits%20do%20Dia&title_color=000000" alt="Gráfico de Commits do Dia" />
