@@ -67,7 +67,7 @@
 </p>
 
 <!-- Tech Stack -->
-<h3 align="left"> 💻 Tech Stack</h3>
+<h3 align="center"> 💻 Tech Stack</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
@@ -78,7 +78,7 @@
 
 <!-- IDE, Produtividade e Tools -->
 
-<h3 align = "left"> ⚙️ IDE's, Produtividades & Tools</h3>
+<h3 align = "center"> ⚙️ IDE's, Produtividades & Tools</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="RStudio" />
