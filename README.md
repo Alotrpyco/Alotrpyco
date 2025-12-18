@@ -84,7 +84,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/texstudio.png" width="30" alt="TeXstudio" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png" height="36" alt="teams" />
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png" width="30" alt="google_classroon" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png" heigth="31" alt="google_classroon" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="30" alt="OpenAI" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/deepseek.png" height="30" alt="deepseek" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/copilot.png" height="30" alt="copilot" />
