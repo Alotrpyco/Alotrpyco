@@ -61,13 +61,14 @@
 
 <!-- Linguagens usadas -->
 <p align="center">
-  <a href="https://github.com/Alotrpyco">
-    <img
-      src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
-      width="240px"
-      alt="Guerreiro"
-    />
-  
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" width="240px" />
+
+  <img
+    src="https://github-readme-stats-git-master-alotrpycos-projects.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&hide_border=true&bg_color=00000000"
+    width="400px"
+  />
+</p>
+
 
 
 
