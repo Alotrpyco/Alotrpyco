@@ -67,14 +67,8 @@
       width="240px"
       alt="Guerreiro"
     />
-  </a>
+  
 
-  <img
-    src="https://github-readme-stats-git-master-alotrpycos-projects.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&hide_border=true&bg_color=00000000"
-    width="400px"
-    alt="Top Languages"
-  />
-</p>
 
 
 <!-- Tech Stack -->
