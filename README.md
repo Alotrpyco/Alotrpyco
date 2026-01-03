@@ -61,16 +61,21 @@
 
 <!-- Linguagens usadas -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
-    width="240px"
-  />
+  <a href="https://github.com/Alotrpyco">
+    <img
+      src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
+      width="240px"
+      alt="Guerreiro"
+    />
+  </a>
 
   <img
-    src="https://github-readme-stats-m1v8-git-master-alotrpycos-projects.vercel.app/api/top-langs/?hide_border=true&bg_color=00000000&layout=compact&username=Alotrpyco"
+    src="https://github-readme-stats-git-master-alotrpycos-projects.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&hide_border=true&bg_color=00000000"
     width="400px"
+    alt="Top Languages"
   />
 </p>
+
 
 <!-- Tech Stack -->
 <h3 align="left"> 💻 Tech Stack</h3>
