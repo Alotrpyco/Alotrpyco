@@ -67,7 +67,7 @@
   />
 
   <img
-    src="https://github-readme-stats-e27e-git-master-alotrpycos-projects.vercel.app/api/top-langs/?layout=compact&hide_border=true&bg_color=00000000&username=Alotrpyco"
+    src="https://github-readme-stats-m1v8-git-master-alotrpycos-projects.vercel.app/api/top-langs/?hide_border=true&bg_color=00000000&layout=compact&username=Alotrpyco"
     width="400px"
   />
 </p>
