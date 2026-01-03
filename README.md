@@ -60,7 +60,6 @@
 ---
 
 <!-- Linguagens usadas -->
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
@@ -68,11 +67,10 @@
   />
 
   <img
-    src="https://github-readme-stats-git-master-alotrpycos-projects.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&hide_border=true&bg_color=00000000"
+    src="https://github-readme-stats-e27e-git-master-alotrpycos-projects.vercel.app/api/top-langs/?layout=compact&hide_border=true&bg_color=00000000&username=Alotrpyco"
     width="400px"
   />
 </p>
-
 
 <!-- Tech Stack -->
 <h3 align="left"> 💻 Tech Stack</h3>
