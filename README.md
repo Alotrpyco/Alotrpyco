@@ -107,6 +107,34 @@
   </a>
 </div>
 
+<!-- LINHA 1: GIF + TOP LANGUAGES -->
+<p align="center">
+  <a href="https://github.com/Alotrpyco">
+    <img
+      src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
+      width="220px"
+      alt="Guerreiro"
+    />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <img
+    src="https://github-readme-stats-topaz-beta-78.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&hide_border=true&bg_color=00000000"
+    width="420px"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- LINHA 2: TROFÉUS -->
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&column=4&margin-w=6&margin-h=6&no-frame=true"
+    alt="GitHub Trophies"
+  />
+</p>
+
+
 ---
 
 <!-- GIF Final centralizado -->
