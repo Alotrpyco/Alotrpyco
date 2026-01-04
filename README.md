@@ -59,11 +59,34 @@
 
 ---
 
-<!-- Linguagens usadas -->
+<!-- GRID: GIF + STATS -->
+<table align="center">
+  <tr>
+    <td align="center" width="260">
+      <img
+        src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
+        width="220px"
+        alt="Guerreiro"
+      />
+    </td>
+    <td align="center" width="420">
+      <img
+        src="https://github-readme-stats-topaz-beta-78.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&hide_border=true&bg_color=00000000"
+        width="400px"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+<!-- TROFÉUS -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif" width="240px" />
-  
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=algolia&column=4&margin-w=6&margin-h=6&no-frame=true"
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 
 
