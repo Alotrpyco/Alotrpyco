@@ -59,15 +59,12 @@
 
 ---
 
-<!-- GRID: GIF + STATS -->
-<table align="center">
-  <tr>
-    <td align="center" width="260">
-      <img
-        src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
-        width="220px"
-        alt="Guerreiro"
-      />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
+    width="240px"
+    alt="Guerreiro"
+  />
     
 
 <!-- Tech Stack -->
