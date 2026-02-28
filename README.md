@@ -49,8 +49,7 @@
   <a href="mailto:sergio.torres@feac.ufal.br">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
   </a>
-  <a href="https://br.op.gg/summoner/userName=Alotrópico">
-    <img src="https://img.shields.io/badge/LoL-Alotrópico-000000?style=for-the-badge&logo=leagueoflegends&logoColor=FFD700" alt="LoL">
+
   </a>
   <a href="https://www.tibia.com/community/?subtopic=characters&name=Maestro+Lord">
     <img src="https://img.shields.io/badge/Tibia-Maestro%20Lord-006400?style=for-the-badge" alt="Tibia">
