@@ -64,7 +64,6 @@
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
     width="240px"
     alt="Guerreiro"
-  />
 
   <img
     src="https://github-readme-stats-gold-gamma-62.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&theme=dark"
