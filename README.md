@@ -59,7 +59,7 @@
 </div>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alotrpyco&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
   <p align="center">
   <img
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
