@@ -43,9 +43,7 @@
   <a href="https://instagram.com/sergioricardo.me">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.threads.net/@sergioricardo.me">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
-  </a>
+
   <a href="mailto:sergio.torres@feac.ufal.br">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
     
