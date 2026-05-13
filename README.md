@@ -77,7 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" height="30" alt="R" />
   <img src="https://skillicons.dev/icons?i=latex" height="30" title ="LaTeX" alt="LaTeX" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" height="30" alt="Power BI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30" title="Jupyter notebook" alt="Jupyter" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30" title="Jupyter Notebook" alt="Jupyter" />
 </div>
 
 <!-- IDE, Produtividade e Tools -->
