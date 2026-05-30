@@ -38,6 +38,11 @@
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
 
+  <a href="https://t.me/mesergioricardo" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    
+  </a>
+  
   <a href="https://linkedin.com/in/sergioricardo-me">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -48,6 +53,7 @@
   
   <a href="mailto:sergio.torres@feac.ufal.br">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
+  </a>
     
 <a href="https://www.op.gg/summoners/br/Alotr%C3%B3pico">
   <img src="https://img.shields.io/badge/League%20of%20Legends-Alotr%C3%B3pico-0B0F1A?style=for-the-badge&logo=riotgames&logoColor=8A8A8A" alt="League of Legends">
@@ -110,7 +116,7 @@
   </a>
 </div>
 
->
+
 
 
 ---
