@@ -60,6 +60,12 @@
 </div>
 
 ---
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy-d8mw.vercel.app/?username=alotrpyco&theme=algolia&column=4&no-frame=true"
+    alt="GitHub Trophies"
+
   <p align="center">
   <img
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
@@ -90,7 +96,7 @@
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/texstudio.png" title="TeXstudio" height="30" alt="TeXstudio" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png" title="Microsoft Teams" height="30" alt="teams" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png" title="Google Classroom" height="30" alt="google_classroon" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/copilot.png" title="Microsoft Copilot" height="30" alt="copilot" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/lexibird_translate.png" title="Lexibird Translate" height="30" alt="lexibird_translate" />
 </div>
