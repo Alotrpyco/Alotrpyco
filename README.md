@@ -58,18 +58,14 @@
     <img src="https://img.shields.io/badge/Tibia-Maestro%20Lord-006400?style=for-the-badge" alt="Tibia">
   </a>
 </div>
-
 ---
-
 <p align="center">
   <img
     src="https://github-profile-trophy-d8mw.vercel.app/?username=alotrpyco&theme=algolia&column=4&no-frame=true"
     alt="GitHub Trophies"
   />
 </p>
-
----
-    
+---  
   <p align="center">
   <img
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
