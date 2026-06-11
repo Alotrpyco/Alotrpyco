@@ -65,7 +65,11 @@
   <img
     src="https://github-profile-trophy-d8mw.vercel.app/?username=alotrpyco&theme=algolia&column=4&no-frame=true"
     alt="GitHub Trophies"
+  />
+</p>
 
+---
+    
   <p align="center">
   <img
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
