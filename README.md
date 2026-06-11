@@ -61,6 +61,13 @@
 
 ---
 
+<p align="center">
+  <img
+    src="https://github-profile-trophy-git-master-alotrpycos-projects.vercel.app/?username=alotrpyco&theme=algolia"
+    alt="Troféus"
+  />
+</p>
+
   <p align="center">
   <img
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
