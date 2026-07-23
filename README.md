@@ -77,7 +77,7 @@
     alt="Guerreiro"
 
   <img
-    src="https://github-readme-stats-gold-gamma-62.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&theme=algolia"
+    src="https://github-profile-trophy-sooty-one.vercel.app/?username=alotrpyco&title=-Followers&theme=algolia&column=4"
     height="240px"
   />
 </p>
