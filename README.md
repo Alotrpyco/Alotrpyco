@@ -63,7 +63,8 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy-d8mw.vercel.app/?username=alotrpyco&theme=algolia&column=4&no-frame=true"
+    src="https://github-readme-stats-gold-gamma-62.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&theme=algolia"
+    height="240px"
     alt="GitHub Trophies"
   />
 </p>
@@ -78,7 +79,7 @@
 
   <img
     src="https://github-profile-trophy-sooty-one.vercel.app/?username=alotrpyco&title=-Followers&theme=algolia&column=4"
-    height="240px"
+    alt="GitHub Trophies"
   />
 </p>
 
