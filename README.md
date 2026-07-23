@@ -78,7 +78,7 @@
     alt="Guerreiro"
 
   <img
-    
+    src="https://github-profile-trophy-gray-tau.vercel.app/?username=alotrpyco&title=-Followers&theme=algolia&column=4"
     alt="GitHub Trophies"
   />
 </p>
