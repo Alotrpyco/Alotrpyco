@@ -63,7 +63,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-gold-gamma-62.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&theme=algolia"
+    src="https://github-readme-stats-k245.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&theme=algolia"
     height="240px"
     alt="GitHub Trophies"
   />
