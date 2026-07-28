@@ -144,6 +144,8 @@
   />
 </a>
 
+</p>
+
 <!-- IDE, Produtividade e Tools -->
 <h3 align="left">⚙️ IDEs, Produtividade &amp; Tools</h3>
 
@@ -174,7 +176,7 @@
     align="left"
     alt="TeXstudio"
     width="40px"
-    height="50px"
+    height="60px"
     style="padding:10px;"
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/texstudio.png"
   />
