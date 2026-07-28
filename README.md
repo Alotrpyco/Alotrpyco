@@ -173,15 +173,15 @@
   <img
     align="left"
     alt="TeXstudio"
-    width="30px"
-    height="30px"
+    width="40px"
+    height="50px"
     style="padding:10px;"
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/texstudio.png"
   />
 </a>
 
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+
 
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png" title="Microsoft Teams" height="30" alt="teams" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png" title="Google Classroom" height="30" alt="google_classroon" />
