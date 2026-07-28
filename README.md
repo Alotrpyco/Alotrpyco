@@ -83,7 +83,7 @@
   />
 </p>
 
-
+---
 
 <!-- TECH STACK -->
 
@@ -194,14 +194,14 @@
   />
 </a>
 
-<a href="https://classroom.google.com/" target="_blank">
+<a href="https://lexibird.com/" target="_blank">
   <img
     align="left"
-    alt="Google Classroom"
-    width="55px"
-    height="70px"
+    alt="Lexibird Translate"
+    width="30px"
+    height="30px"
     style="padding:10px;"
-    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png"
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/lexibird_translate.png"
   />
 </a>
 
@@ -216,14 +216,14 @@
   />
 </a>
 
-<a href="https://lexibird.com/" target="_blank">
+<a href="https://classroom.google.com/" target="_blank">
   <img
     align="left"
-    alt="Lexibird Translate"
-    width="30px"
-    height="30px"
+    alt="Google Classroom"
+    width="55px"
+    height="70px"
     style="padding:10px;"
-    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/lexibird_translate.png"
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png"
   />
 </a>
 
