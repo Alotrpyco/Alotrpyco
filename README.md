@@ -144,9 +144,8 @@
   />
 </a>
 
-</p>
-
 <!-- IDE, Produtividade e Tools -->
+
 <h3 align="left">⚙️ IDEs, Produtividade &amp; Tools</h3>
 
 <a href="https://code.visualstudio.com/" target="_blank">
@@ -175,22 +174,74 @@
   <img
     align="left"
     alt="TeXstudio"
-    width="40px"
+    width="50px"
     height="60px"
     style="padding:10px;"
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/texstudio.png"
   />
 </a>
 
+<a href="https://www.microsoft.com/microsoft-teams/" target="_blank">
+  <img
+    align="left"
+    alt="Microsoft Teams"
+    width="60px"
+    height="70px"
+    style="padding:10px;"
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png"
+  />
+</a>
+
+<a href="https://classroom.google.com/" target="_blank">
+  <img
+    align="left"
+    alt="Google Classroom"
+    width="55px"
+    height="70px"
+    style="padding:10px;"
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png"
+  />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img
+    align="left"
+    alt="Git"
+    width="30px"
+    height="30px"
+    style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+  />
+</a>
+
+<a href="https://copilot.microsoft.com/" target="_blank">
+  <img
+    align="left"
+    alt="Microsoft Copilot"
+    width="55px"
+    height="70px"
+    style="padding:10px;"
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/copilot.png"
+  />
+</a>
+
+<a href="https://lexibird.com/" target="_blank">
+  <img
+    align="left"
+    alt="Lexibird Translate"
+    width="30px"
+    height="30px"
+    style="padding:10px;"
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/lexibird_translate.png"
+  />
+</a>
+
+<br clear="left" />
 
 
 
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png" title="Microsoft Teams" height="30" alt="teams" />
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png" title="Google Classroom" height="30" alt="google_classroon" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/copilot.png" title="Microsoft Copilot" height="30" alt="copilot" />
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/lexibird_translate.png" title="Lexibird Translate" height="30" alt="lexibird_translate" />
-</div>
+
+
 
 ---
 
