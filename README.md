@@ -87,7 +87,7 @@
 
 <!-- TECH STACK -->
 
-  <h3 align="left">💻 Conjunto de Tecnologias</h3>
+  <h3 align="left">💻 Tech Stack </h3>
 
 <a href="https://www.python.org/" target="_blank">
   <img
@@ -144,6 +144,17 @@
   />
 </a>
 
+<a href="https://git-scm.com/" target="_blank">
+  <img
+    align="left"
+    alt="Git"
+    width="30px"
+    height="30px"
+    style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+  />
+</a>
+
 <br clear="left" />
 
 <!-- IDE, Produtividade e Tools -->
@@ -183,16 +194,6 @@
   />
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img
-    align="left"
-    alt="Git"
-    width="30px"
-    height="30px"
-    style="padding:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-  />
-</a>
 
 <a href="https://lexibird.com/" target="_blank">
   <img
