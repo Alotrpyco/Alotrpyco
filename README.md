@@ -105,7 +105,7 @@
     align="left"
     alt="R"
     width="30px"
-    heigth="30px
+    height="30px
     style="padding:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
   />
@@ -116,7 +116,7 @@
     align="left"
     alt="LaTeX"
     width="30px"
-    heigth="30px"
+    height="30px"
     style="padding:10px;"
     src="https://skillicons.dev/icons?i=latex"
   />
@@ -127,7 +127,7 @@
     align="left"
     alt="Power BI"
     width="30px"
-    heigth="30px"
+    height="30px"
     style="padding:10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
   />
@@ -138,11 +138,13 @@
     align="left"
     alt="Jupyter Notebook"
     width="30px"
-    heigth="30px"
+    height="30px"
     style="padding:10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"
   />
 </a>
+
+<br clear="left" />
 
 <!-- IDE, Produtividade e Tools -->
 
@@ -237,9 +239,6 @@
 </a>
 
 <br clear="left" />
-
-
-
 
 
 
