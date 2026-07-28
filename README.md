@@ -62,24 +62,30 @@
 ---
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-k245.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&theme=algolia"
-    height="240px"
-    alt="GitHub Trophies"
-  />
-</p>
-
----  
-
-  <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
-    width="240px"
-    alt="Guerreiro"
 
   <img
     src="https://github-profile-trophy-gray-tau.vercel.app/?username=alotrpyco&title=-Followers&theme=algolia&column=4"
     alt="GitHub Trophies"
+  />
+</p>
+
+
+
+---  
+
+  <p align="center">
+  
+  <img
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/guerreiro.gif"
+    width="240px"
+    alt="Guerreiro"
+  
+
+   <img
+    src="https://github-readme-stats-k245.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&theme=algolia"
+    height="240px"
+    alt="Linguagens usadas"
+      
   />
 </p>
 
