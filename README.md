@@ -205,6 +205,8 @@
   />
 </a>
 
+<br clear="left" />
+
 <a href="https://www.microsoft.com/microsoft-teams/" target="_blank">
   <img
     align="left"
