@@ -83,10 +83,9 @@
   />
 </p>
 
-<!-- Tech Stack -->
-<!-- ========================================================= -->
+
+
 <!-- TECH STACK -->
-<!-- ========================================================= -->
 
   <h3 align="left">💻 Tech Stack</h3>
 
@@ -146,11 +145,44 @@
 </a>
 
 <!-- IDE, Produtividade e Tools -->
-<h3 align = "left"> ⚙️ IDE's, Produtividade & Tools</h3>
+<h3 align="left">⚙️ IDEs, Produtividade &amp; Tools</h3>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img
+    align="left"
+    alt="VS Code"
+    width="30px"
+    height="30px"
+    style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+  />
+</a>
+
+<a href="https://posit.co/download/rstudio/" target="_blank">
+  <img
+    align="left"
+    alt="RStudio"
+    width="30px"
+    height="30px"
+    style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"
+  />
+</a>
+
+<a href="https://www.texstudio.org/" target="_blank">
+  <img
+    align="left"
+    alt="TeXstudio"
+    width="30px"
+    height="30px"
+    style="padding:10px;"
+    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/texstudio.png"
+  />
+</a>
+
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="RStudio" height="30" alt="RStudio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" height="30" alt="VSCode" />
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/texstudio.png" title="TeXstudio" height="30" alt="TeXstudio" />
+
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png" title="Microsoft Teams" height="30" alt="teams" />
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png" title="Google Classroom" height="30" alt="google_classroon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
