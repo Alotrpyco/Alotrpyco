@@ -166,7 +166,7 @@
     align="left"
     alt="VS Code"
     width="20px"
-    height="20px"
+    height="30px"
     style="padding:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
   />
