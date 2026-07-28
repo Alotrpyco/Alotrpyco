@@ -84,14 +84,66 @@
 </p>
 
 <!-- Tech Stack -->
-<h3 align="left"> 💻 Tech Stack</h3>
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" height="30" alt="R" />
-  <img src="https://skillicons.dev/icons?i=latex" height="30" title ="LaTeX" alt="LaTeX" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" height="30" alt="Power BI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30" title="Jupyter Notebook" alt="Jupyter" />
-</div>
+<!-- ========================================================= -->
+<!-- TECH STACK -->
+<!-- ========================================================= -->
+
+  <h3 align="left">💻 Tech Stack</h3>
+
+<a href="https://www.python.org/" target="_blank">
+  <img
+    align="left"
+    alt="Python"
+    width="30px"
+    height="30px"
+    style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+  />
+</a>
+
+<a href="https://www.r-project.org/" target="_blank">
+  <img
+    align="left"
+    alt="R"
+    width="30px"
+    heigth="30px
+    style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
+  />
+</a>
+
+<a href="https://www.latex-project.org/" target="_blank">
+  <img
+    align="left"
+    alt="LaTeX"
+    width="30px"
+    heigth="30px"
+    style="padding:10px;"
+    src="https://skillicons.dev/icons?i=latex"
+  />
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img
+    align="left"
+    alt="Power BI"
+    width="30px"
+    heigth="30px"
+    style="padding:10px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+  />
+</a>
+
+<a href="https://jupyter.org/" target="_blank">
+  <img
+    align="left"
+    alt="Jupyter Notebook"
+    width="30px"
+    heigth="30px"
+    style="padding:10px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"
+  />
+</a>
 
 <!-- IDE, Produtividade e Tools -->
 <h3 align = "left"> ⚙️ IDE's, Produtividade & Tools</h3>
