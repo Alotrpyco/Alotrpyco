@@ -205,13 +205,11 @@
   />
 </a>
 
-<br clear="left" />
-
 <a href="https://www.microsoft.com/microsoft-teams/" target="_blank">
   <img
     align="left"
     alt="Microsoft Teams"
-    width="60px"
+    width="40px"
     height="70px"
     style="padding:10px;"
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png"
@@ -222,7 +220,7 @@
   <img
     align="left"
     alt="Google Classroom"
-    width="55px"
+    width="40px"
     height="70px"
     style="padding:10px;"
     src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png"
