@@ -29,35 +29,57 @@
 ---
 
 <!-- Conecte-se comigo -->
-<h3 align="left"> 🌐 Conecte-se comigo!</h3> 
+<h3 align="left">🌐 Conecte-se comigo!</h3>
 
 <p align="left">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
   <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/gif/gatinha.gif" height="45">
 </p>
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+<p align="left">
 
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sergioricardo-me">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  
-  <a href="https://instagram.com/sergioricardo.me">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  
-  <a href="mailto:sergio.torres@feac.ufal.br">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
-  </a>
-    
-<a href="https://www.op.gg/summoners/br/Alotr%C3%B3pico">
-  <img src="https://img.shields.io/badge/League%20of%20Legends-Alotr%C3%B3pico-0B0F1A?style=for-the-badge&logo=riotgames&logoColor=8A8A8A" alt="League of Legends">
-</a>
 
-  <a href="https://www.tibia.com/community/?subtopic=characters&name=Maestro+Lord">
-    <img src="https://img.shields.io/badge/Tibia-Maestro%20Lord-006400?style=for-the-badge" alt="Tibia">
+  <!-- Instagram -->
+  <a href="https://instagram.com/sergioricardo.me">
+    <img
+      src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
-</div>
+
+  <!-- Email -->
+  <a href="mailto:sergio.torres@feac.ufal.br">
+    <img
+      src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red"
+      alt="Email"
+    />
+  </a>
+
+  <!-- League of Legends -->
+  <a href="https://www.op.gg/summoners/br/Alotr%C3%B3pico">
+    <img
+      src="https://img.shields.io/badge/League%20of%20Legends-Alotr%C3%B3pico-0B0F1A?style=for-the-badge&logo=riotgames&logoColor=8A8A8A"
+      alt="League of Legends"
+    />
+  </a>
+
+  <!-- Tibia -->
+  <a href="https://www.tibia.com/community/?subtopic=characters&name=Maestro+Lord">
+    <img
+      src="https://img.shields.io/badge/Tibia-Maestro%20Lord-006400?style=for-the-badge"
+      alt="Tibia"
+    />
+  </a>
+
+</p>
+
 
 ---
 
@@ -68,8 +90,6 @@
     alt="GitHub Trophies"
   />
 </p>
-
----  
 
   <p align="center">
   <img
