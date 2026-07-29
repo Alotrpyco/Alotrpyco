@@ -87,7 +87,7 @@
   <img
     src="https://github-readme-stats-k245.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&theme=algolia"
     height="240px"
-    alt="GitHub Trophies"
+    alt="top-langs"
   />
 </p>
 
