@@ -85,7 +85,7 @@
 
 <p align="center">
  <img
-    src="https://github-readme-stats-k245.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&theme=algolia"
+    src="https://github-readme-stats-five-nu-37.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&theme=algolia"
     height="240px"
     alt="Top Languages"
 />
@@ -98,7 +98,7 @@
     alt="Guerreiro"
 
   <img
-    src="https://github-profile-trophy-gray-tau.vercel.app/?username=alotrpyco&title=-Followers&theme=algolia&column=4"
+    src="https://github-profile-trophy-liart-eight.vercel.app/?username=alotrpyco&title=-Followers&theme=algolia&column=4"
     alt="GitHub Trophies"
   />
 </p>
