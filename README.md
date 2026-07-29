@@ -84,11 +84,11 @@
 ---
 
 <p align="center">
-  <img
+ <img
     src="https://github-readme-stats-k245.vercel.app/api/top-langs/?username=Alotrpyco&layout=compact&theme=algolia"
     height="240px"
-    alt="top-langs"
-  />
+    alt="Top Languages"
+/>
 </p>
 
   <p align="center">
