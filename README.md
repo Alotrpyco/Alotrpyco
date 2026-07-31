@@ -254,6 +254,9 @@
 
 ---
 
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alotrpyco&theme=algolia&hide_border=true&border_radius=4.3&locale=pt&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <!-- Gráfico de Atividade -->
 <h3 align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false&custom_title=Gráfico%20de%20Commits%20do%20Dia&title_color=000000" alt="Gráfico de Commits do Dia" />
