@@ -27,6 +27,7 @@
   Assessor Técnico na Secretaria de Estado do Turismo de Alagoas (SETUR/AL), sempre em busca de oportunidades para aplicar conhecimentos em análise e interpretação de dados em projetos práticos.
 </p>
 
+
 <h2 align="center">📊 Áreas de Interesse</h2>
 
 <p align="center">
