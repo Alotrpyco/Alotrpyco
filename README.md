@@ -16,18 +16,6 @@
 
 <!-- Sobre mim -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/svg/slow.svg">
-  <img src="https://komarev.com/ghpvc/?username=Alotrpyco&style=for-the-badge" alt="Profile Views" />
-  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/svg/slow.svg">
-</p>
-
-<p align="center">
-  Graduando em Economia pela UFAL, com interesse em análise quantitativa, resolução de problemas e visualização de dados. 
-  Assessor Técnico na Secretaria de Estado do Turismo de Alagoas (SETUR/AL), sempre em busca de oportunidades para aplicar conhecimentos em análise e interpretação de dados em projetos práticos.
-</p>
-
-
 <h2 align="center">📊 Áreas de Interesse</h2>
 
 <p align="center">
@@ -37,6 +25,18 @@
   <img src="https://img.shields.io/badge/Business%20Intelligence-DC2626?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Estatística-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Econometria-374151?style=for-the-badge" />
+</p>
+
+
+<p align="center">
+  Graduando em Economia pela UFAL, com interesse em análise quantitativa, resolução de problemas e visualização de dados. 
+  Assessor Técnico na Secretaria de Estado do Turismo de Alagoas (SETUR/AL), sempre em busca de oportunidades para aplicar conhecimentos em análise e interpretação de dados em projetos práticos.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/svg/slow.svg">
+  <img src="https://komarev.com/ghpvc/?username=Alotrpyco&style=for-the-badge" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/svg/slow.svg">
 </p>
 
 ---
