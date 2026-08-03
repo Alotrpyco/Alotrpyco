@@ -33,9 +33,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Análise%20de%20Dados-1F6FEB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ciência%20de%20Dados-6F42C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Engenharia%20de%20Dados-0E7490?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ETL-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automação-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Business%20Intelligence-DC2626?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Estatística-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Econometria-374151?style=for-the-badge" />
@@ -281,8 +279,12 @@
 </p>
 
 <!-- Gráfico de Atividade -->
-<h3 align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false&custom_title=Gráfico%20de%20Commits%20do%20Dia&title_color=000000" alt="Gráfico de Commits do Dia" />
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false&custom_title=Gráfico%20de%20Commits%20do%20Dia&title_color=000000"
+    alt="Gráfico de Atividade do GitHub"
+  />
+</p>
 
 ---
 
