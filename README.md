@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Business%20Intelligence-DC2626?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automação-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Estatística-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Econometria-374151?style=for-the-badge" />
 </p>
 
 
