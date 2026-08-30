@@ -268,6 +268,14 @@
 ---
 
 <!-- Gráfico de Atividade -->
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=alotrpyco&theme=meta-light&hide_border=true&border_radius=4.3&locale=pt&short_numbers=true&date_format=m+j%5b%2c+y%5d"
+    alt="Análise de sequência"
+  />
+</p>
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph-roan.vercel.app/graph?username=Alotrpyco&bg_color=ffffff&color=0366d6&line=800080&point=000000&area=true&hide_border=false&custom_title=Gr%C3%A1fico%20de%20Commits%20do%20Dia&title_color=000000"
