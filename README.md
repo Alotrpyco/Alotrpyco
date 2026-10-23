@@ -111,7 +111,7 @@
     alt="Guerreiro"
 
   <img
-    src="https://github-profile-trophy-liart-eight.vercel.app/?username=alotrpyco&title=-Followers&theme=algolia&column=4"
+    src="https://github-profile-trophy-liart-eight.vercel.app/?username=Alotrpyco&title=-Followers&theme=algolia&column=4"
     alt="GitHub Trophies"
   />
 </p>
