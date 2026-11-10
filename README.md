@@ -183,8 +183,8 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=alotrpyco&theme=meta-light&hide_border=true&border_radius=4.3&locale=pt&short_numbers=true&date_format=m+j%5b%2c+y%5d"
-    alt="Análise de sequência"
+    src="https://github-readme-stats-five-nu-37.vercel.app/api?username=Alotrpyco&show_icons=true&theme=algolia&hide_border=true"
+    alt="GitHub Stats"
   />
 </p>
 
