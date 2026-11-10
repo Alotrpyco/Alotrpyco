@@ -156,6 +156,14 @@
     </td>
   </tr>
   <tr>
+    <td><b>Produtividade</b></td>
+    <td>
+    <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" alt="Microsoft Teams">
+    <img src="https://img.shields.io/badge/Google_Classroom-0F9D58?style=flat-square&logo=googleclassroom&logoColor=white" alt="Google Classroom">
+    <img src="https://img.shields.io/badge/Lexibird-2E8B57?style=flat-square&logoColor=white" alt="Lexibird">
+</td>
+</tr>
+  <tr>
     <td><b>Versionamento & Desenvolvimento</b></td>
     <td>
      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
@@ -166,81 +174,6 @@
     </td>
   </tr>
 </table>
-
-<!-- IDE, Produtividade e Tools -->
-
-<h3 align="left">⚙️ IDEs, Produtividade &amp; Tools</h3>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img
-    align="left"
-    alt="VS Code"
-    width="30px"
-    height="30px"
-    style="padding:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-  />
-</a>
-
-<a href="https://posit.co/download/rstudio/" target="_blank">
-  <img
-    align="left"
-    alt="RStudio"
-    width="30px"
-    height="30px"
-    style="padding:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"
-  />
-</a>
-
-<a href="https://www.texstudio.org/" target="_blank">
-  <img
-    align="left"
-    alt="TeXstudio"
-    width="50px"
-    height="60px"
-    style="padding:10px;"
-    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/texstudio.png"
-  />
-</a>
-
-
-<a href="https://lexibird.com/" target="_blank">
-  <img
-    align="left"
-    alt="Lexibird Translate"
-    width="30px"
-    height="30px"
-    style="padding:10px;"
-    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/lexibird_translate.png"
-  />
-</a>
-
-<a href="https://www.microsoft.com/microsoft-teams/" target="_blank">
-  <img
-    align="left"
-    alt="Microsoft Teams"
-    width="40px"
-    height="70px"
-    style="padding:10px;"
-    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/teams.png"
-  />
-</a>
-
-<a href="https://classroom.google.com/" target="_blank">
-  <img
-    align="left"
-    alt="Google Classroom"
-    width="40px"
-    height="70px"
-    style="padding:10px;"
-    src="https://raw.githubusercontent.com/Alotrpyco/Alotrpyco/main/png/google_classroon.png"
-  />
-</a>
-
-<br clear="left" />
-
-
 
 ---
 
