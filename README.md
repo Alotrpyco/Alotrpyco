@@ -119,76 +119,36 @@
 ---
 
 <!-- TECH STACK -->
-
   <h3 align="left">💻 Tech Stack </h3>
-
-<a href="https://www.python.org/" target="_blank">
-  <img
-    align="left"
-    alt="Python"
-    width="30px"
-    height="30px"
-    style="padding:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  />
-</a>
-
-<a href="https://www.r-project.org/" target="_blank">
-  <img
-    align="left"
-    alt="R"
-    width="30px"
-    height="30px
-    style="padding:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
-  />
-</a>
-
-<a href="https://www.latex-project.org/" target="_blank">
-  <img
-    align="left"
-    alt="LaTeX"
-    width="30px"
-    height="30px"
-    style="padding:10px;"
-    src="https://skillicons.dev/icons?i=latex"
-  />
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img
-    align="left"
-    alt="Power BI"
-    width="30px"
-    height="30px"
-    style="padding:10px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
-  />
-</a>
-
-<a href="https://jupyter.org/" target="_blank">
-  <img
-    align="left"
-    alt="Jupyter Notebook"
-    width="30px"
-    height="30px"
-    style="padding:10px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"
-  />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img
-    align="left"
-    alt="Git"
-    width="30px"
-    height="30px"
-    style="padding:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-  />
-</a>
-
-<br clear="left" />
+<table>
+  <tr>
+    <td><b>Linguagens</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+      <img src="https://img.shields.io/badge/M%20(Power%20Query)-F2C811?style=flat-square&logoColor=black" alt="Power Query">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Ecossistema R</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=tidyverse&logoColor=white" alt="Tidyverse">
+      <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=posit&logoColor=white" alt="RStudio">
+      <img src="https://img.shields.io/badge/readxl-276DC3?style=flat-square&logo=r&logoColor=white" alt="readxl">
+      <img src="https://img.shields.io/badge/Arrow-007D9C?style=flat-square&logo=apachearrow&logoColor=white" alt="Arrow">
+    </td>
+  </tr>
+  <tr>
+    <td><b>ETL &<br/>Engenharia de Dados</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/CSV-217346?style=flat-square" alt="CSV">
+      <img src="https://img.shields.io/badge/Parquet-50ABF1?style=flat-square" alt="Parquet">
+      <img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power Query">
+      <img src="https://img.shields.io/badge/XLSX-0072C6?style=flat-square&logo=microsoftexcel&logoColor=white" alt="XLSX">
+    </td>
+  </tr>
+</table>
 
 <!-- IDE, Produtividade e Tools -->
 
