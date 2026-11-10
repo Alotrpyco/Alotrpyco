@@ -134,18 +134,35 @@
     <td><b>Ecossistema R</b></td>
     <td>
       <img src="https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=tidyverse&logoColor=white" alt="Tidyverse">
-      <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=posit&logoColor=white" alt="RStudio">
-      <img src="https://img.shields.io/badge/readxl-276DC3?style=flat-square&logo=r&logoColor=white" alt="readxl">
+      <img src="https://img.shields.io/badge/readr-217346?style=flat-square&logo=r&logoColor=white" alt="readr">
       <img src="https://img.shields.io/badge/Arrow-007D9C?style=flat-square&logo=apachearrow&logoColor=white" alt="Arrow">
+      <img src="https://img.shields.io/badge/readxl-217346?style=flat-square&logo=r&logoColor=white" alt="readxl">
     </td>
   </tr>
   <tr>
-    <td><b>ETL &<br/>Engenharia de Dados</b></td>
+    <td><b>ETL & Engenharia de Dados</b></td>
     <td>
-      <img src="https://img.shields.io/badge/CSV-217346?style=flat-square" alt="CSV">
+      <img src="https://img.shields.io/badge/CSV-217346?style=flat-square" alt=".CSV">
       <img src="https://img.shields.io/badge/Parquet-50ABF1?style=flat-square" alt="Parquet">
       <img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power Query">
-      <img src="https://img.shields.io/badge/XLSX-0072C6?style=flat-square&logo=microsoftexcel&logoColor=white" alt="XLSX">
+      <img src="https://img.shields.io/badge/XLSX-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt=".XLSX">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Business Intelligence & Aplicações</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+      <img src="https://img.shields.io/badge/CustomTkinter-2B579A?style=flat-square" alt="CustomTkinter">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Versionamento & Desenvolvimento</b></td>
+    <td>
+     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=posit&logoColor=white" alt="RStudio">
+    <img src="https://img.shields.io/badge/TeXstudio-008080?style=flat-square&logo=texstudio&logoColor=white" alt="TeXstudio">
     </td>
   </tr>
 </table>
