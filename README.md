@@ -136,25 +136,25 @@
       <img src="https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=tidyverse&logoColor=white" alt="Tidyverse">
       <img src="https://img.shields.io/badge/readr-217346?style=flat-square&logo=r&logoColor=white" alt="readr">
       <img src="https://img.shields.io/badge/ggplot2-447099?style=flat-square&logo=R&logoColor=white" alt="ggplot2">
-      <img src="https://img.shields.io/badge/dplyr-217346?style=flat-square&logo=r&logoColor=white" alt="dplyr">
+      <img src="https://img.shields.io/badge/dplyr-276DC3?style=flat-square&logo=r&logoColor=white" alt="dplyr">
       <img src="https://img.shields.io/badge/readxl-217346?style=flat-square&logo=r&logoColor=white" alt="readxl">
     </td>
   </tr>
   <tr>
     <td><b>ETL & Engenharia de Dados</b></td>
     <td>
-      <img src="https://img.shields.io/badge/CSV-217346?style=flat-square" alt=".CSV">
-      <img src="https://img.shields.io/badge/Arrow-007D9C?style=flat-square&logo=apachearrow&logoColor=white" alt="Arrow">
+       <img src="https://img.shields.io/badge/Apache_Arrow-007D9C?style=flat-square&logo=apachearrow&logoColor=white" alt="Apache Arrow">
       <img src="https://img.shields.io/badge/Parquet-50ABF1?style=flat-square" alt="Parquet">
-      <img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power Query">
-      <img src="https://img.shields.io/badge/XLSX-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt=".XLSX">
+      <img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power Query"> 
     </td>
   </tr>
   <tr>
-    <td><b>Business Intelligence & Aplicações</b></td>
+    <td><b>Business Intelligence, Analyst & Aplicações</b></td>
     <td>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
       <img src="https://img.shields.io/badge/CustomTkinter-2B579A?style=flat-square" alt="CustomTkinter">
+      <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="DAX">
+      <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
     </td>
   </tr>
   <tr>
