@@ -136,7 +136,6 @@
       <img src="https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=tidyverse&logoColor=white" alt="Tidyverse">
       <img src="https://img.shields.io/badge/readr-217346?style=flat-square&logo=r&logoColor=white" alt="readr">
       <img src="https://img.shields.io/badge/ggplot2-447099?style=flat-square&logo=R&logoColor=white" alt="ggplot2">
-      <img src="https://img.shields.io/badge/dplyr-276DC3?style=flat-square&logo=r&logoColor=white" alt="dplyr">
       <img src="https://img.shields.io/badge/readxl-217346?style=flat-square&logo=r&logoColor=white" alt="readxl">
     </td>
   </tr>
@@ -149,12 +148,13 @@
     </td>
   </tr>
   <tr>
-    <td><b>Business Intelligence, Analyst & Aplicações</b></td>
+    <td><b>Business Intelligence, Data Analyst & Aplicações</b></td>
     <td>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-      <img src="https://img.shields.io/badge/CustomTkinter-2B579A?style=flat-square" alt="CustomTkinter">
+      <img src="https://img.shields.io/badge/dplyr-276DC3?style=flat-square&logo=r&logoColor=white" alt="dplyr">
       <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="DAX">
       <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+      <img src="https://img.shields.io/badge/CustomTkinter-2B579A?style=flat-square" alt="CustomTkinter">
     </td>
   </tr>
   <tr>
