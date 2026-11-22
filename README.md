@@ -158,6 +158,13 @@
     </td>
   </tr>
   <tr>
+    <td><b>Escrita Científica</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+      <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white" alt="Overleaf">
+    </td>
+  </tr>
+  <tr>
     <td><b>Produtividade</b></td>
     <td>
     <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" alt="Microsoft Teams">
