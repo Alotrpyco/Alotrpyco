@@ -148,7 +148,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Business Intelligence, Data Analyst & Aplicações</b></td>
+    <td><b>Business Intelligence, Análise de dados & Aplicações</b></td>
     <td>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
       <img src="https://img.shields.io/badge/dplyr-276DC3?style=flat-square&logo=r&logoColor=white" alt="dplyr">
@@ -158,7 +158,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Escrita Científica</b></td>
+    <td><b>Escrita Científica & Colaboração</b></td>
     <td>
       <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
       <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white" alt="Overleaf">
